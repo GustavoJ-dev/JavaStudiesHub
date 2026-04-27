@@ -21,23 +21,24 @@ public class Main {
         }
 
         // 1. Exibição da lista ordenada por ID (Ordem Natural)
-        printHeader("Lista Original (Ordenada por ID)");
+        printHeader("1. Lista Original (Ordenada por ID)");
         queryList.sort(Comparator.naturalOrder());
         printList(queryList);
 
-        // 2. Filtragem de estudantes usando busca dinâmica (Fluent API)
-        printHeader("Estudantes com Progresso <= 50% em cursos de 'Java'");
+        // 2. Filtragem de estudantes usando busca dinâmica (METODO DE INSTÂNCIA - Fluent API)
+        printHeader("2. Filtragem via Método de Instância (Fluent API)");
         var matches = queryList
                 .getMatches("PercentComplete", "50")
                 .getMatches("Course", "Java");
 
-        // 3. Ordenação customizada por percentual de conclusão
         matches.sort(new LPAStudentComparator());
         printList(matches);
 
-        // 4. Exibição final dos filtros aplicados
-        printHeader("Resultados Filtrados (Ordenação por Progresso)");
-        printList(matches);
+        // 3. Demonstração do uso do METODO ESTÁTICO
+        // Útil para quando você tem uma List comum e não quer instanciar uma QueryList
+        printHeader("3. Filtragem via Método Estático (QueryList.getMatches)");
+        List<LPAStudent> staticMatches = QueryList.getMatches(queryList, "Course", "Python");
+        printList(staticMatches);
     }
 
     /**
