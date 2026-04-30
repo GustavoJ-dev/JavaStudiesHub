@@ -22,8 +22,10 @@ Neste módulo intermediário-inicial, os principais aprendizados foram:
 
 1.  **Produtividade com IntelliJ**: Como utilizar a IDE para facilitar a escrita e o teste de programas Java.
 2.  **Lógica Condicional**: Como controlar o fluxo do programa através de condições.
-3.  **Operadores Lógicos e Relacionais**: Uso de operadores como `==`, `!=`, `<`, `>`, `<=`, `>=` e o operador de resto `%`.
-4.  **Resolução de Problemas**: Aplicação prática de cálculos matemáticos básicos para resolver um desafio lógico e exibir o resultado correspondente.
+3.  **Operadores Lógicos e Relacionais**: Uso de operadores como `==`, `!=`, `<`, `>`, `<=`, `>=` e
+    o operador de resto `%`.
+4.  **Resolução de Problemas**: Aplicação prática de cálculos matemáticos básicos para resolver um desafio lógico e exibir
+    o resultado correspondente.
 5.  **Boas Práticas de Codificação**: A importância de organizar o código de forma clara e utilizar documentação (Javadoc) 
     para explicar a lógica.
 
