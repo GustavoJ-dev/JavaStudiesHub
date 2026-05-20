@@ -36,9 +36,9 @@ public class Main {
         wall2.setWidth(width);
         wall2.setHeight(height);
 
-        System.out.println("--- Área da Parede (" + width + "x" + height + ") ---");
-        System.out.println("Área (Construtor): " + wall.getArea());
-        System.out.println("Área (Setters): " + wall2.getArea());
+        System.out.printf("--- Área da Parede (%.2fx%.2f) ---%n", width, height);
+        System.out.printf("Área (Construtor): %.2f%n", wall.getArea());
+        System.out.printf("Área (Setters): %.2f%n", wall2.getArea());
         System.out.println("=".repeat(30)); // Separador para melhor visualização
     }
 }
