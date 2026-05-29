@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaStudiesHub.iml" filepath="$PROJECT_DIR$/JavaStudiesHub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module01-java-basic/module01-java-basic.iml" filepath="$PROJECT_DIR$/module01-java-basic/module01-java-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module02-Java-POO/module02-Java-POO.iml" filepath="$PROJECT_DIR$/module02-Java-POO/module02-Java-POO.iml" />
     </modules>
   </component>
 </project>
