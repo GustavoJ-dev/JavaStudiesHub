@@ -4,7 +4,7 @@ package exercises.Section03.exercise07;
  * Classe que contém a resolução do Exercício Sete do Módulo 03.
  * Focada na verificação se a soma de dois números é igual a um terceiro número.
  */
-public class ExerciseSeven {
+public class HasEqualSum {
 
     /**
      * Método principal para testar a funcionalidade de verificação de soma igual.

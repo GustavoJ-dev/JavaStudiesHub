@@ -5,7 +5,7 @@ package exercises.Section03.exercise08;
  * Focada na verificação de idades para determinar se uma pessoa é adolescente (teen)
  * e se um grupo de pessoas contém pelo menos um adolescente.
  */
-public class ExerciseEight {
+public class IsTeen {
 
     /**
      * Método principal para testar as funcionalidades de verificação de idade.

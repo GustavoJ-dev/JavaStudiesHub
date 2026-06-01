@@ -5,7 +5,7 @@ package exercises.Section03.exercise09;
  * Focada no cálculo da área de um círculo e de um retângulo,
  * demonstrando sobrecarga de métodos e validação de entrada.
  */
-public class ExerciseNine {
+public class AreaCalculator {
 
     /**
      * Método principal para testar as funcionalidades de cálculo de área.

@@ -1,11 +1,11 @@
 package exercises.Section03.exercise02;
 
 /**
- * Classe que contém a resolução do Exercício Dois do Módulo 03.
+ * Classe que contém uma atividade prática sobre o Módulo 03.
  * Focada na conversão de quilômetros por hora para milhas por hora,
  * demonstrando o uso de métodos estáticos e controle de fluxo.
  */
-public class ExerciseTwo {
+public class KmConversor {
 
     /**
      * Metodo principal para testar as funcionalidades de conversão e impressão.

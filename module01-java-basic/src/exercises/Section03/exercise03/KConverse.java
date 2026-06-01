@@ -1,11 +1,11 @@
 package exercises.Section03.exercise03;
 
 /**
- * Classe que contém a resolução do Exercício Três do Módulo 03.
+ * Classe que contém uma atividade prática sobre o Módulo 03.
  * Focada na conversão de Kilobytes para Megabytes e Kilobytes restantes,
  * e vice-versa, demonstrando operações de divisão e módulo.
  */
-public class ExerciseThree {
+public class KConverse {
 
     /**
      * Método principal para testar as funcionalidades de conversão e impressão.

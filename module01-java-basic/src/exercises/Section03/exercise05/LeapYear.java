@@ -1,11 +1,11 @@
 package exercises.Section03.exercise05;
 
 /**
- * Classe que contém a resolução do Exercício Cinco do Módulo 03.
+ * Classe que contém uma atividade prática sobre o módulo 03.
  * Focada na lógica para determinar se um ano é bissexto,
  * aplicando regras de divisibilidade.
  */
-public class ExerciseFive {
+public class LeapYear {
 
     /**
      * Método principal para testar a funcionalidade de verificação de ano bissexto.

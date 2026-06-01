@@ -5,7 +5,7 @@ package exercises.Section03.exercise12;
  * Focada na lógica condicional para determinar se um gato está brincando
  * com base na temperatura e na estação do ano (verão).
  */
-public class ExerciseTwelve {
+public class IsCatPlaying {
 
     /**
      * Metodo principal para testar a funcionalidade de verificação de brincadeira do gato.

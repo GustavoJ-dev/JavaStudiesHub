@@ -5,7 +5,7 @@ package exercises.Section03.exercise10;
  * Focada na conversão de minutos para anos e dias,
  * demonstrando operações de divisão e módulo com tipos de dados `long`.
  */
-public class ExerciseTen {
+public class MinConversor {
 
     /**
      * Método principal para testar a funcionalidade de conversão de tempo.

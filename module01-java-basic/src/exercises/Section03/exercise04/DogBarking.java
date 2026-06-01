@@ -1,11 +1,11 @@
 package exercises.Section03.exercise04;
 
 /**
- * Classe que contém a resolução do Exercício Quatro do Módulo 03.
+ * Classe que contém uma atividade prática sobre o Módulo 03.
  * Focada na lógica condicional para determinar se um cachorro está latindo
  * em um horário inadequado.
  */
-public class ExerciseFour {
+public class DogBarking {
 
     /**
      * Método principal para testar a funcionalidade de verificação de latidos.

@@ -1,10 +1,10 @@
 package exercises.Section03.exercise01;
 
 /**
- * Classe que contém a resolução do Exercício Um do Módulo 03.
+ * Classe que contém uma atividade prática sobre o módulo 03.
  * Focada em lógica simples de verificação numérica e uso de operadores ternários.
  */
-public class ExerciseOne {
+public class TernaryOperator {
 
     /**
      * Metodo principal para testar a funcionalidade de verificação de números negativos.

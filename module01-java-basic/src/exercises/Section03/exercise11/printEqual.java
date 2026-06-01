@@ -5,7 +5,7 @@ package exercises.Section03.exercise11;
  * Focada na comparação de três números inteiros para determinar
  * se são todos iguais, todos diferentes, ou uma combinação.
  */
-public class ExerciseEleven {
+public class printEqual {
 
     /**
      * Metodo principal para testar a funcionalidade de comparação de números.

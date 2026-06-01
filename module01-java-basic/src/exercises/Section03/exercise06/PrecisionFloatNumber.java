@@ -5,7 +5,7 @@ package exercises.Section03.exercise06;
  * Focada na comparação de números de ponto flutuante com uma precisão
  * de três casas decimais.
  */
-public class ExerciseSix {
+public class PrecisionFloatNumber {
 
     /**
      * Método principal para testar a funcionalidade de comparação de números.
