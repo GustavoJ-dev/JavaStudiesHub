@@ -1,4 +1,4 @@
-package module05.learning.exercise34;
+package pratices.heritance.exercise34;
 
 /**
  * Representa o custo por metro quadrado de um carpete.

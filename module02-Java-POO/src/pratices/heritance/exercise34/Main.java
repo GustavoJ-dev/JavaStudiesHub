@@ -1,4 +1,4 @@
-package module05.learning.exercise34;
+package pratices.heritance.exercise34;
 
 /**
  * Classe principal para demonstrar o uso das classes {@link CarpetCost}, {@link Floor} e {@link Calculator}.

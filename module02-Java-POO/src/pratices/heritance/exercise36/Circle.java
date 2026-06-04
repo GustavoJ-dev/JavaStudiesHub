@@ -1,4 +1,4 @@
-package module05.learning.exercise36;
+package pratices.heritance.exercise36;
 
 /**
  * Representa um círculo com um determinado raio.

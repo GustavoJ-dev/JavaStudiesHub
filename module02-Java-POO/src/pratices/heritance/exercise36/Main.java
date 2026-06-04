@@ -1,4 +1,4 @@
-package module05.learning.exercise36;
+package pratices.heritance.exercise36;
 
 /**
  * Classe principal para demonstrar o uso das classes {@link Circle} e {@link Cylinder}.

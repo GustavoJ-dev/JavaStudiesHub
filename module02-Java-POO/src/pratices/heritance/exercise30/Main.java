@@ -1,4 +1,4 @@
-package module05.learning.exercise30;
+package pratices.heritance.exercise30;
 
 /**
  * Classe principal para demonstrar o uso da classe {@link SumCalculator}.

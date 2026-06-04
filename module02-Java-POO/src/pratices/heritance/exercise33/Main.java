@@ -1,4 +1,4 @@
-package module05.learning.exercise33;
+package pratices.heritance.exercise33;
 
 /**
  * Classe principal para demonstrar o uso da classe {@link Point}.

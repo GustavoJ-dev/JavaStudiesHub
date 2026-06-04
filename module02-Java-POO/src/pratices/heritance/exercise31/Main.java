@@ -1,4 +1,4 @@
-package module05.learning.exercise31; // Corrigido o nome do pacote para minúsculas
+package pratices.heritance.exercise31; // Corrigido o nome do pacote para minúsculas
 
 /**
  * Classe principal para demonstrar o uso da classe {@link module05.learning.exercise31.Person}.

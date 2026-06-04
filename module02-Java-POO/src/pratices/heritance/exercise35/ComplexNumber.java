@@ -1,4 +1,4 @@
-package module05.learning.exercise35;
+package pratices.heritance.exercise35;
 
 /**
  * Representa um número complexo com uma parte real e uma parte imaginária.

@@ -1,4 +1,4 @@
-package module05.learning.exercise35;
+package pratices.heritance.exercise35;
 
 /**
  * Classe principal para demonstrar o uso da classe {@link ComplexNumber}.

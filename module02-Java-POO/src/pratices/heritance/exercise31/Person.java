@@ -1,4 +1,4 @@
-package module05.learning.exercise31; // Corrigido o nome do pacote para minúsculas
+package pratices.heritance.exercise31; // Corrigido o nome do pacote para minúsculas
 
 /**
  * Representa uma pessoa com nome, sobrenome e idade.

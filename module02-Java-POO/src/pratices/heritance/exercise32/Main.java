@@ -1,4 +1,4 @@
-package module05.learning.exercise32;
+package pratices.heritance.exercise32;
 
 /**
  * Classe principal para demonstrar o uso da classe {@link Wall}.

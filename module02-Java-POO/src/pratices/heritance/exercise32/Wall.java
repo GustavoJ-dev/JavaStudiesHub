@@ -1,4 +1,4 @@
-package module05.learning.exercise32;
+package pratices.heritance.exercise32;
 
 /**
  * Representa uma parede com largura e altura.

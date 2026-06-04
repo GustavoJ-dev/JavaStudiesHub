@@ -1,4 +1,4 @@
-package module05.learning.exercise34;
+package pratices.heritance.exercise34;
 
 /**
  * Representa um piso com largura e altura.

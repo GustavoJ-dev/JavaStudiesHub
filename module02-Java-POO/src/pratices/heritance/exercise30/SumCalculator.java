@@ -1,4 +1,4 @@
-package module05.learning.exercise30;
+package pratices.heritance.exercise30;
 
 /**
  * Classe que implementa uma calculadora simples para realizar operações

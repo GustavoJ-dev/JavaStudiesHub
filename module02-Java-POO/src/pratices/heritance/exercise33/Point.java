@@ -1,4 +1,4 @@
-package module05.learning.exercise33;
+package pratices.heritance.exercise33;
 
 /**
  * Representa um ponto em um plano cartesiano 2D com coordenadas X e Y.

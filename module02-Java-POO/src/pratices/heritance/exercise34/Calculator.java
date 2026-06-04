@@ -1,4 +1,4 @@
-package module05.learning.exercise34;
+package pratices.heritance.exercise34;
 
 /**
  * Classe que calcula o custo total de um carpete para um determinado piso.

@@ -1,4 +1,4 @@
-package module05.learning.exercise37;
+package pratices.heritance.exercise37;
 
 public class Main {
     public static void main(String[] args) {
