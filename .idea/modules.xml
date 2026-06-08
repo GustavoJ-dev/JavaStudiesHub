@@ -5,6 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/JavaStudiesHub.iml" filepath="$PROJECT_DIR$/JavaStudiesHub.iml" />
       <module fileurl="file://$PROJECT_DIR$/module01-java-basic/module01-java-basic.iml" filepath="$PROJECT_DIR$/module01-java-basic/module01-java-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/module02-Java-POO/module02-Java-POO.iml" filepath="$PROJECT_DIR$/module02-Java-POO/module02-Java-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module03-Java-POO-Lists/module03-Java-POO-Lists.iml" filepath="$PROJECT_DIR$/module03-Java-POO-Lists/module03-Java-POO-Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module04-Java-POO-Abstraction-Interfaces/module04-Java-POO-Abstraction-Interfaces.iml" filepath="$PROJECT_DIR$/module04-Java-POO-Abstraction-Interfaces/module04-Java-POO-Abstraction-Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module05-Java-POO-Generics/module05-Java-POO-Generics.iml" filepath="$PROJECT_DIR$/module05-Java-POO-Generics/module05-Java-POO-Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module06-java-POO-NestedClasses/module06-java-POO-NestedClasses.iml" filepath="$PROJECT_DIR$/module06-java-POO-NestedClasses/module06-java-POO-NestedClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module07-Java-POO-Lambdas/module07-Java-POO-Lambdas.iml" filepath="$PROJECT_DIR$/module07-Java-POO-Lambdas/module07-Java-POO-Lambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module08-Java-POO-Collections/module08-Java-POO-Collections.iml" filepath="$PROJECT_DIR$/module08-Java-POO-Collections/module08-Java-POO-Collections.iml" />
     </modules>
   </component>
 </project>
