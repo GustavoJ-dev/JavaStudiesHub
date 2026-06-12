@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class SumInputUser {
 
     /**
-     * Método principal para iniciar a funcionalidade de leitura, soma e média.
+     * Metodo principal para iniciar a funcionalidade de leitura, soma e média.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

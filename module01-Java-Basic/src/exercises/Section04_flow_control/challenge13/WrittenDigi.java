@@ -8,7 +8,7 @@ package exercises.Section04_flow_control.challenge13;
 public class WrittenDigi {
 
     /**
-     * Método principal para testar a funcionalidade de conversão de dígito para texto.
+     * Metodo principal para testar a funcionalidade de conversão de dígito para texto.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

@@ -8,7 +8,7 @@ package exercises.Section04_flow_control.challenge19;
 public class SharedDigit {
 
     /**
-     * Método principal para testar a funcionalidade de verificação de dígitos compartilhados.
+     * Metodo principal para testar a funcionalidade de verificação de dígitos compartilhados.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

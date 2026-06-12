@@ -7,11 +7,9 @@ package pratices.heritance.exercise34;
  */
 public class Main {
     /**
-     * Método principal que inicia a demonstração do cálculo do custo do carpete.
-     * Chama o método {@code printCarpetValue} com diferentes dimensões de piso e custo por metro quadrado
+     * Metodo principal que inicia a demonstração do cálculo do custo do carpete.
+     * Chama o metodo {@code printCarpetValue} com diferentes dimensões de piso e custo por metro quadrado
      * para exibir o custo total.
-     *
-     * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {
         printCarpetValue(2.75, 4.00, 2.25); // Exemplo 1

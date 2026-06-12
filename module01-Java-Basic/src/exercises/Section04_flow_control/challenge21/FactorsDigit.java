@@ -7,7 +7,7 @@ package exercises.Section04_flow_control.challenge21;
 public class FactorsDigit {
 
     /**
-     * Método principal para testar a funcionalidade de impressão de fatores.
+     * Metodo principal para testar a funcionalidade de impressão de fatores.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

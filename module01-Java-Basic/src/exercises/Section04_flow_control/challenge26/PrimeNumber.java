@@ -7,7 +7,7 @@ package exercises.Section04_flow_control.challenge26;
 public class PrimeNumber {
 
     /**
-     * Método principal para testar a funcionalidade de encontrar o maior fator primo.
+     * Metodo principal para testar a funcionalidade de encontrar o maior fator primo.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

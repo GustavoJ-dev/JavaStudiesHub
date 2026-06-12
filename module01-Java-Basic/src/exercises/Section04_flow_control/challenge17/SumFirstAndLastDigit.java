@@ -7,7 +7,7 @@ package exercises.Section04_flow_control.challenge17;
 public class SumFirstAndLastDigit {
 
     /**
-     * Método principal para testar a funcionalidade de soma do primeiro e último dígito.
+     * Metodo principal para testar a funcionalidade de soma do primeiro e último dígito.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

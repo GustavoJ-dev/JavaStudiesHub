@@ -8,7 +8,7 @@ package exercises.Section04_flow_control.challenge29;
 public class PaintBuckets{
 
     /**
-     * Método principal para testar as funcionalidades de cálculo de baldes.
+     * Metodo principal para testar as funcionalidades de cálculo de baldes.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

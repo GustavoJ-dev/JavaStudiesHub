@@ -7,7 +7,7 @@ package exercises.Section04_flow_control.challenge18;
 public class SumEvenDigit {
 
     /**
-     * Método principal para testar a funcionalidade de soma de dígitos pares.
+     * Metodo principal para testar a funcionalidade de soma de dígitos pares.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

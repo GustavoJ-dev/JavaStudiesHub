@@ -8,7 +8,7 @@ package exercises.Section04_flow_control.challenge22;
 public class MDCIntegerNumber {
 
     /**
-     * Método principal para testar a funcionalidade de cálculo do MDC.
+     * Metodo principal para testar a funcionalidade de cálculo do MDC.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

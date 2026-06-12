@@ -7,7 +7,7 @@ package exercises.Section03_statements_and_methods.exercise07;
 public class HasEqualSum {
 
     /**
-     * Método principal para testar a funcionalidade de verificação de soma igual.
+     * Metodo principal para testar a funcionalidade de verificação de soma igual.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

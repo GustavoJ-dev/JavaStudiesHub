@@ -10,8 +10,6 @@ public class Main {
      * Metodo principal que inicia a demonstração das operações da calculadora.
      * Chama o metodo {@code printCalculate} com diferentes pares de números
      * para exibir a soma, subtração, divisão e multiplicação.
-     *
-     * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {
         printCalculate(20, 15);

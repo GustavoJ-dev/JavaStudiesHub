@@ -9,7 +9,7 @@ package exercises.Section04_flow_control.challenge20;
 public class ValidDigit {
 
     /**
-     * Método principal para testar a funcionalidade de verificação de último dígito.
+     * Metodo principal para testar a funcionalidade de verificação de último dígito.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

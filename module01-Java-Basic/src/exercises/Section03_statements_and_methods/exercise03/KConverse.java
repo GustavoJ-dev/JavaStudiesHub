@@ -8,7 +8,7 @@ package exercises.Section03_statements_and_methods.exercise03;
 public class KConverse {
 
     /**
-     * Método principal para testar as funcionalidades de conversão e impressão.
+     * Metodo principal para testar as funcionalidades de conversão e impressão.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

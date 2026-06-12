@@ -7,11 +7,10 @@ package pratices.heritance.exercise33;
  */
 public class Main {
     /**
-     * Método principal que inicia a demonstração da criação e manipulação de objetos {@link Point}.
+     * Metodo principal que inicia a demonstração da criação e manipulação de objetos {@link Point}.
      * Chama o método {@code printPoint} com diferentes coordenadas para exibir
      * as distâncias calculadas.
      *
-     * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {
         printPoint(6, 5);

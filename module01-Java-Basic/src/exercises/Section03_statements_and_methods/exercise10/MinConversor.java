@@ -8,7 +8,7 @@ package exercises.Section03_statements_and_methods.exercise10;
 public class MinConversor {
 
     /**
-     * Método principal para testar a funcionalidade de conversão de tempo.
+     * Metodo principal para testar a funcionalidade de conversão de tempo.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

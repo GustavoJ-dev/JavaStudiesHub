@@ -8,7 +8,7 @@ package exercises.Section03_statements_and_methods.exercise06;
 public class PrecisionFloatNumber {
 
     /**
-     * Método principal para testar a funcionalidade de comparação de números.
+     * Metodo principal para testar a funcionalidade de comparação de números.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

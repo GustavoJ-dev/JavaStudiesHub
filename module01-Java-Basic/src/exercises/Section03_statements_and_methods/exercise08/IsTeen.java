@@ -8,7 +8,7 @@ package exercises.Section03_statements_and_methods.exercise08;
 public class IsTeen {
 
     /**
-     * Método principal para testar as funcionalidades de verificação de idade.
+     * Metodo principal para testar as funcionalidades de verificação de idade.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

@@ -7,11 +7,10 @@ package pratices.heritance.exercise36;
  */
 public class Main {
     /**
-     * Método principal que inicia a demonstração da criação e manipulação de objetos
+     * Metodo principal que inicia a demonstração da criação e manipulação de objetos
      * {@link Circle} e {@link Cylinder}. Calcula e imprime o raio, altura, área e volume
      * para as formas geométricas.
      *
-     * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {
         // Demonstração da classe Circle

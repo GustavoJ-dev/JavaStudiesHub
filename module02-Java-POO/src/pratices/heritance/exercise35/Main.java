@@ -10,7 +10,6 @@ public class Main {
      * Metodo principal que inicia a demonstração da criação e manipulação de objetos {@link ComplexNumber}.
      * Realiza operações de adição e subtração com números complexos e imprime os resultados.
      *
-     * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {
         // Cria dois números complexos para demonstração

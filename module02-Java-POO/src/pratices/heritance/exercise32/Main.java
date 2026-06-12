@@ -7,10 +7,8 @@ package pratices.heritance.exercise32;
  */
 public class Main {
     /**
-     * Método principal que inicia a demonstração da criação e manipulação de objetos {@link Wall}.
-     * Chama o método {@code printArea} com diferentes dimensões para exibir a área de paredes.
-     *
-     * @param args Argumentos da linha de comando (não utilizados).
+     * Metodo principal que inicia a demonstração da criação e manipulação de objetos {@link Wall}.
+     * Chama o metodo {@code printArea} com diferentes dimensões para exibir a área de paredes.
      */
     public static void main(String[] args) {
         printArea(5.5, 10);

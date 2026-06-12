@@ -8,7 +8,7 @@ package exercises.Section04_flow_control.challenge15;
 public class SumOdd {
 
     /**
-     * Método principal para testar a funcionalidade de soma de números ímpares.
+     * Metodo principal para testar a funcionalidade de soma de números ímpares.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

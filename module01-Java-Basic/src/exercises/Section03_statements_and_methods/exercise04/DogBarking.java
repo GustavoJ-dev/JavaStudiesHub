@@ -8,7 +8,7 @@ package exercises.Section03_statements_and_methods.exercise04;
 public class DogBarking {
 
     /**
-     * Método principal para testar a funcionalidade de verificação de latidos.
+     * Metodo principal para testar a funcionalidade de verificação de latidos.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

@@ -8,7 +8,7 @@ package exercises.Section03_statements_and_methods.exercise05;
 public class LeapYear {
 
     /**
-     * Método principal para testar a funcionalidade de verificação de ano bissexto.
+     * Metodo principal para testar a funcionalidade de verificação de ano bissexto.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

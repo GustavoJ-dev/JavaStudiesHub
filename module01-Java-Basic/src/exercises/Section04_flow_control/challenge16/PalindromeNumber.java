@@ -8,7 +8,7 @@ package exercises.Section04_flow_control.challenge16;
 public class PalindromeNumber {
 
     /**
-     * Método principal para testar a funcionalidade de verificação de palíndromo.
+     * Metodo principal para testar a funcionalidade de verificação de palíndromo.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

@@ -8,7 +8,7 @@ package exercises.Section04_flow_control.challenge14;
 public class EnhancedLeapYear {
 
     /**
-     * Método principal para testar a funcionalidade de obtenção do número de dias no mês.
+     * Metodo principal para testar a funcionalidade de obtenção do número de dias no mês.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

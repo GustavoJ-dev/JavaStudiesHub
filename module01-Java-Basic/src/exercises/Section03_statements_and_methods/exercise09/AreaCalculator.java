@@ -8,7 +8,7 @@ package exercises.Section03_statements_and_methods.exercise09;
 public class AreaCalculator {
 
     /**
-     * Método principal para testar as funcionalidades de cálculo de área.
+     * Metodo principal para testar as funcionalidades de cálculo de área.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

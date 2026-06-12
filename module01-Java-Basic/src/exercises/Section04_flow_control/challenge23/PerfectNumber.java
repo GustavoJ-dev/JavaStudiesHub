@@ -9,7 +9,7 @@ package exercises.Section04_flow_control.challenge23;
 public class PerfectNumber {
 
     /**
-     * Método principal para testar a funcionalidade de verificação de número perfeito.
+     * Metodo principal para testar a funcionalidade de verificação de número perfeito.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {

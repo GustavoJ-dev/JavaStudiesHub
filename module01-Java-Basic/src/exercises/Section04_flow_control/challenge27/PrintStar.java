@@ -11,7 +11,7 @@ public class PrintStar {
     private static final String SPACE = " ";
 
     /**
-     * Método principal para testar a funcionalidade de impressão do padrão de estrela.
+     * Metodo principal para testar a funcionalidade de impressão do padrão de estrela.
      * @param args Argumentos da linha de comando (não utilizados).
      */
     public static void main(String[] args) {
