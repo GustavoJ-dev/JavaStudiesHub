@@ -4,16 +4,13 @@
  * Esta classe exemplifica como o polimorfismo funciona permitindo que diferentes tipos
  * de carros (Ford, Holden, Mitsubishi) sejam criados e utilizados através de referências
  * da classe base Car, cada um com seu próprio comportamento.
- * 
- * @author Exercício 40 - Polimorfismo
- * @version 1.0
  */
 package pratices.polymorphism.exercise40;
 
 public class Main {
     
     /**
-     * Método principal que executa demonstrações de polimorfismo com diferentes carros.
+     * Metodo principal que executa demonstrações de polimorfismo com diferentes carros.
      * 
      * @param args argumentos de linha de comando (não utilizados)
      */
@@ -27,7 +24,7 @@ public class Main {
     /**
      * Cria um carro da marca especificada e executa seus comportamentos básicos.
      * 
-     * Este método utiliza um switch statement para criar a instância apropriada
+     * Este metodo utiliza um switch statement para criar a instância apropriada
      * da subclasse de Car baseado na marca fornecida, e então executa os métodos
      * startEngine(), accelerate() e brake() para demonstrar polimorfismo.
      * 

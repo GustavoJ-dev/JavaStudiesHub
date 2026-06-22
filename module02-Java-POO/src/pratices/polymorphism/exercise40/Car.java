@@ -6,9 +6,6 @@ package pratices.polymorphism.exercise40;
  * Define as características e comportamentos básicos de um carro,
  * incluindo motor, cilindros, nome e rodas. Serve como classe base
  * para diferentes marcas de carros que herdam e implementam seus próprios comportamentos.
- * 
- * @author Exercício 40 - Polimorfismo
- * @version 1.0
  */
 public class Car {
     /** Indica se o motor está ligado ou desligado */

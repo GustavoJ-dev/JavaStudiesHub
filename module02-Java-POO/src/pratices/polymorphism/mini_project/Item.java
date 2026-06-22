@@ -6,9 +6,7 @@ package pratices.polymorphism.mini_project;
  * Define as características básicas de um item como bebida, acompanhamento ou cobertura,
  * incluindo tipo, nome, preço base e tamanho. Fornece métodos para ajustar preços de
  * acordo com o tamanho selecionado.
- * 
- * @author Mini Project - Polimorfismo
- * @version 1.0
+ *
  */
 public class Item {
 

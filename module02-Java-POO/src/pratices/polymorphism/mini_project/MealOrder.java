@@ -5,9 +5,7 @@ package pratices.polymorphism.mini_project;
  * 
  * Encapsula um hambúrguer, uma bebida e um acompanhamento (lado).
  * Fornece funcionalidades para personalizar o pedido e calcular o preço total.
- * 
- * @author Mini Project - Polimorfismo
- * @version 1.0
+ *
  */
 public class MealOrder {
     

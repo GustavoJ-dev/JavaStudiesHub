@@ -5,9 +5,7 @@ package pratices.polymorphism.mini_project;
  * 
  * Estende a classe Item e permite adicionar até 3 coberturas (toppings) ao hambúrguer.
  * Cada cobertura tem um preço específico que é adicionado ao preço base do hambúrguer.
- * 
- * @author Mini Project - Polimorfismo
- * @version 1.0
+ *
  */
 public class Burger extends Item{
     

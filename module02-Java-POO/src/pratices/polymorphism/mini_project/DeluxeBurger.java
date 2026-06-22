@@ -5,9 +5,6 @@ package pratices.polymorphism.mini_project;
  * 
  * Estende a classe Burger e permite adicionar até 5 coberturas no total.
  * As 2 coberturas extras (além das 3 do hambúrguer normal) são oferecidas gratuitamente.
- * 
- * @author Mini Project - Polimorfismo
- * @version 1.0
  */
 public class DeluxeBurger extends Burger{
     
@@ -49,7 +46,7 @@ public class DeluxeBurger extends Burger{
     /**
      * Imprime a lista detalhada incluindo as coberturas deluxe.
      * 
-     * Sobrescreve o método da classe pai para incluir as 2 coberturas extras
+     * Sobrescreve o metodo da classe pai para incluir as 2 coberturas extras
      * oferecidas gratuitamente.
      */
     @Override
@@ -66,7 +63,7 @@ public class DeluxeBurger extends Burger{
     /**
      * Retorna preço 0 para todas as coberturas no hambúrguer deluxe.
      * 
-     * Sobrescreve o método da classe pai para que as coberturas extras
+     * Sobrescreve o metodo da classe pai para que as coberturas extras
      * não tenham custo adicional.
      * 
      * @param toppingName nome da cobertura (não utilizado)

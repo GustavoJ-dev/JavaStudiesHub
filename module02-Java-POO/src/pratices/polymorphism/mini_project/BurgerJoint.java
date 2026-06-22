@@ -5,23 +5,14 @@ package pratices.polymorphism.mini_project;
  * 
  * Exemplifica o uso de polimorfismo através de itens de menu, hambúrgueres com coberturas
  * personalizadas e refeições completas. Simula diferentes cenários de pedidos em um restaurante.
- * 
- * @author Mini Project - Polimorfismo
- * @version 1.0
  */
 public class BurgerJoint {
-    
-    /**
-     * Método principal que executa o programa.
-     * 
-     * @param args argumentos de linha de comando (não utilizados)
-     */
     public static void main(String[] args) {
         pedido();
     }
 
     /**
-     * Método que demonstra o funcionamento do sistema de pedidos.
+     * Metodo que demonstra o funcionamento do sistema de pedidos.
      * 
      * Simula:
      * - Criação de um item (Coca-Cola) e ajuste de tamanho

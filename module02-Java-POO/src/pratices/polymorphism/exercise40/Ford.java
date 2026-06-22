@@ -5,9 +5,6 @@ package pratices.polymorphism.exercise40;
  * 
  * Estende a classe Car e implementa comportamentos específicos de um Ford,
  * sobrescrevendo os métodos de iniciar motor, acelerar e frear.
- * 
- * @author Exercício 40 - Polimorfismo
- * @version 1.0
  */
 public class Ford extends Car {
     
