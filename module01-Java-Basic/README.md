@@ -1,9 +1,11 @@
 # ☕ Module 01 — Java Basics
 
 Este módulo representa minha introdução à linguagem Java e aos fundamentos da programação.  
-Aqui estão reunidos os primeiros conceitos essenciais para o desenvolvimento de aplicações Java, desde a configuração do ambiente até estruturas de controle, métodos e resolução de desafios lógicos.
+Aqui estão reunidos os primeiros conceitos essenciais para o desenvolvimento de aplicações Java,
+desde a configuração do ambiente até estruturas de controle, métodos e resolução de desafios lógicos.
 
-O objetivo deste módulo é construir uma base sólida em lógica de programação e sintaxe Java, preparando o terreno para conceitos mais avançados como Programação Orientada a Objetos, Herança e Polimorfismo.
+O objetivo deste módulo é construir uma base sólida em lógica de programação e sintaxe Java, 
+preparando o terreno para conceitos mais avançados como Programação Orientada a Objetos, Herança e Polimorfismo.
 
 ---
 
@@ -12,7 +14,6 @@ O objetivo deste módulo é construir uma base sólida em lógica de programaç�
 -  `E:/developer/projetos/estudos/JavaStudiesHub/module01-java-basic/src/content`.
 -   Os exercícios e desafios se encontram na pasta:
 -  `E:/developer/projetos/estudos/JavaStudiesHub/module01-java-basic/src/exercises`.
-- 
 
 
 # 🚀 Conteúdo Abordado
