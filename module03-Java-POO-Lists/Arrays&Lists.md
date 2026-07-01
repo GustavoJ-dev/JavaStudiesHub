@@ -8,7 +8,7 @@ Este módulo aprofunda os conceitos de POO aplicando-os com estruturas de dados 
 
 ## 🎯 Objetivos do Módulo
 
-Ao concluir este módulo, você será capaz de:
+O que será possível com este módulo:
 
 ✅ Trabalhar com **Arrays** em Java (criação, manipulação, ordenação)  
 ✅ Usar **Collections Framework** (ArrayList, LinkedList)  
@@ -52,6 +52,12 @@ Trabalha com busca case-insensitive, validação de duplicatas e menu interativo
 Gerencia álbuns e canções com `ArrayList`, cria playlists com `LinkedList` e testa transformação entre coleções. 
 Usa busca, Record para dados imutáveis e navegação de dados.
 **Localização:** `javaLists/exercise45/`
+
+### 🏦 Exercise 46 - Banking - Sistema Bancário Completo
+Sistema completo de gerenciamento bancário com **hierarquia de classes** (Bank → Branch → Client).
+Implementa operações CRUD, validação de dados e histórico de transações.
+Trabalha com `ArrayList` em três níveis, encapsulamento, Menu interativo e Javadoc completo.
+**Localização:** `javaLists/exercise46/`
 
 ---
 
