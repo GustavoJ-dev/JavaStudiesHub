@@ -2,7 +2,10 @@
 
 Bem-vindo ao **Módulo 03: Programação Orientada a Objetos com Arrays e Listas**! 
 
-Este módulo aprofunda os conceitos de POO aplicando-os com estruturas de dados fundamentais em Java: **Arrays** e **Collections** (especialmente `ArrayList` e `LinkedList`). Você aprenderá a criar estruturas de dados reutilizáveis, gerenciar coleções de objetos e implementar operações complexas com dados.
+Este módulo aprofunda os conceitos de POO aplicando-os com estruturas de dados fundamentais em Java: 
+**Arrays** e **Collections** (especialmente `ArrayList` e `LinkedList`). 
+Aprendendo a criar estruturas de dados reutilizáveis, 
+gerenciar coleções de objetos e implementar operações complexas com dados.
 
 ---
 
