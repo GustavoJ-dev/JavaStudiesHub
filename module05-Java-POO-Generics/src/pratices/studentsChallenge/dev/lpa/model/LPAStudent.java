@@ -1,4 +1,4 @@
-package module10.learning.studentsChallenge.dev.lpa.model;
+package pratices.studentsChallenge.dev.lpa.model;
 
 /**
  * Representa um estudante específico da plataforma LPA.

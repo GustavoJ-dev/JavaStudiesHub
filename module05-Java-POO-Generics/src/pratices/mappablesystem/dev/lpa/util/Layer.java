@@ -1,4 +1,4 @@
-package module10.learning.mappablesystem.dev.lpa.util;
+package pratices.mappablesystem.dev.lpa.util;
 
 import java.util.ArrayList;
 import java.util.List;

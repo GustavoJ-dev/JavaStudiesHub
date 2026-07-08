@@ -1,4 +1,4 @@
-package module10.learning.mappablesystem.dev.lpa.util;
+package pratices.mappablesystem.dev.lpa.util;
 
 /**
  * Interface que define o comportamento de um objeto mapeável no sistema.

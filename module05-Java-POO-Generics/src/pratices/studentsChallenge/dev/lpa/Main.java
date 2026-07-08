@@ -1,8 +1,8 @@
-package module10.learning.studentsChallenge.dev.lpa;
+package pratices.studentsChallenge.dev.lpa;
 
-import module10.learning.studentsChallenge.dev.lpa.model.LPAStudent;
-import module10.learning.studentsChallenge.dev.lpa.model.LPAStudentComparator;
-import module10.learning.studentsChallenge.dev.lpa.util.QueryList;
+import pratices.studentsChallenge.dev.lpa.model.LPAStudent;
+import pratices.studentsChallenge.dev.lpa.model.LPAStudentComparator;
+import pratices.studentsChallenge.dev.lpa.util.QueryList;
 
 import java.util.Comparator;
 import java.util.List;

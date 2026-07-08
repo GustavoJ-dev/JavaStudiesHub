@@ -1,6 +1,6 @@
-package module10.learning.mappablesystem.dev.lpa.model;
+package pratices.mappablesystem.dev.lpa.model;
 
-import module10.learning.mappablesystem.dev.lpa.util.Mappable;
+import pratices.mappablesystem.dev.lpa.util.Mappable;
 
 import java.util.Arrays;
 

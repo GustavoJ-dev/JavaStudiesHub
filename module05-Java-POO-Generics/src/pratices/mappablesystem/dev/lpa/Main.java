@@ -1,9 +1,8 @@
-package module10.learning.mappablesystem.dev.lpa;
+package pratices.mappablesystem.dev.lpa;
 
-
-import module10.learning.mappablesystem.dev.lpa.model.Rivers;
-import module10.learning.mappablesystem.dev.lpa.model.TouristPoint;
-import module10.learning.mappablesystem.dev.lpa.util.Layer;
+import pratices.mappablesystem.dev.lpa.model.Rivers;
+import pratices.mappablesystem.dev.lpa.model.TouristPoint;
+import pratices.mappablesystem.dev.lpa.util.Layer;
 
 /**
  * Classe principal para demonstração do sistema de mapeamento.

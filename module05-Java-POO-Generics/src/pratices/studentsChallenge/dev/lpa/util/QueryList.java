@@ -1,7 +1,7 @@
-package module10.learning.studentsChallenge.dev.lpa.util;
+package pratices.studentsChallenge.dev.lpa.util;
 
 
-import module10.learning.studentsChallenge.dev.lpa.model.Student;
+import pratices.studentsChallenge.dev.lpa.model.Student;
 
 import java.util.ArrayList;
 import java.util.List;

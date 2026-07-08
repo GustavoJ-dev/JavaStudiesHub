@@ -1,8 +1,6 @@
-package module10.learning.studentsChallenge.dev.lpa.model;
+package pratices.studentsChallenge.dev.lpa.model;
 
-
-
-import module10.learning.studentsChallenge.dev.lpa.util.QueryItem;
+import pratices.studentsChallenge.dev.lpa.util.QueryItem;
 
 import java.util.Random;
 

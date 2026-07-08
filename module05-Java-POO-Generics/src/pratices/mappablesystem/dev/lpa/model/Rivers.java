@@ -1,4 +1,4 @@
-package module10.learning.mappablesystem.dev.lpa.model;
+package pratices.mappablesystem.dev.lpa.model;
 
 /**
  * Representa um rio no sistema de mapeamento.

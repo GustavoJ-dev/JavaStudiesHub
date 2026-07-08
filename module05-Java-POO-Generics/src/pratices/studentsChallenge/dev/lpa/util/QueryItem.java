@@ -1,4 +1,4 @@
-package module10.learning.studentsChallenge.dev.lpa.util;
+package pratices.studentsChallenge.dev.lpa.util;
 
 /**
  * Interface para itens que podem ser consultados por campos e valores.
