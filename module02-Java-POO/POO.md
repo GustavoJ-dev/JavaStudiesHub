@@ -1,11 +1,40 @@
-# ☕ Module 02 — Programação Orientada a Objetos (POO)
+# >[⚠️ 👇LEIA COM ATENÇÃO👇 ⚠️]
+>
+># 📖 Sobre este módulo
+>
+>
+>## 📝 Material de Estudo Pessoal
+>
+>As apostilas presentes neste módulo foram elaboradas por mim como parte do meu processo de aprendizado e como
+material de consulta durante os meus estudos em Java. Meu objetivo ao produzi-las é reforçar o conhecimento adquirido,
+organizar os conceitos estudados e criar uma referência para revisões futuras.
+>
+>## 🎓 Fonte do Conteúdo
+>
+>O conteúdo foi organizado, estruturado e escrito por mim com base nos assuntos abordados no curso `Java Programming 
+>Masterclass`, ministrado por `Tim Buchalka` e disponibilizado na `Udemy`, além de pesquisas complementares e consultas à
+>documentação oficial da Oracle.
+>
+>## 💻 Sobre os Exercícios
+>
+>Os exercícios e desafios fazem parte do processo de aprendizagem do curso e incluem tanto soluções desenvolvidas
+>durante os meus estudos `quanto implementações baseadas nas correções apresentadas pelo professor ao longo das aulas`.
+>
+>## 🎯 Finalidade
+>
+> - Todo o material presente neste módulo possui finalidade exclusivamente educacional e representa a minha evolução no
+    estudo da linguagem Java, servindo como registro da minha jornada de aprendizado e consulta pessoal.
+
+
+
+# ☕Module 02 — Programação Orientada a Objetos (POO):
 
 Este módulo representa meu aprofundamento na Programação Orientada a Objetos (POO) em Java.
 Aqui estão reunidos os conceitos fundamentais da POO, que transformam o desenvolvimento em Java
 em uma abordagem mais organizada, modular e reutilizável.
 
 O objetivo deste módulo é dominar os pilares da POO: encapsulamento, herança, polimorfismo
-e abstração, preparando o terreno para conceitos mais avançados como Interfaces, Generics,
+e abstração, preparando o terreno para conceitos mais avançados como ‘Interfaces’, Generics,
 Nested Classes e o uso de Collections.
 
 ---

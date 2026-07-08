@@ -1,10 +1,39 @@
-# 📚 Module 04 - Abstração e Interfaces em Java
+# >[⚠️ 👇LEIA COM ATENÇÃO👇 ⚠️]
+>
+># 📖 Sobre este módulo
+>
+>
+>## 📝 Material de Estudo Pessoal
+>
+>As apostilas presentes neste módulo foram elaboradas por mim como parte do meu processo de aprendizado e como
+material de consulta durante os meus estudos em Java. Meu objetivo ao produzi-las é reforçar o conhecimento adquirido,
+organizar os conceitos estudados e criar uma referência para revisões futuras.
+>
+>## 🎓 Fonte do Conteúdo
+>
+>O conteúdo foi organizado, estruturado e escrito por mim com base nos assuntos abordados no curso `Java Programming 
+>Masterclass`, ministrado por `Tim Buchalka` e disponibilizado na `Udemy`, além de pesquisas complementares e consultas à
+>documentação oficial da Oracle.
+>
+>## 💻 Sobre os Exercícios
+>
+>Os exercícios e desafios fazem parte do processo de aprendizagem do curso e incluem tanto soluções desenvolvidas
+>durante os meus estudos `quanto implementações baseadas nas correções apresentadas pelo professor ao longo das aulas`.
+>
+>## 🎯 Finalidade
+>
+> - Todo o material presente neste módulo possui finalidade exclusivamente educacional e representa a minha evolução no
+    estudo da linguagem Java, servindo como registro da minha jornada de aprendizado e consulta pessoal.
 
-Bem-vindo ao **Módulo 04: Programação Orientada a Objetos com Abstração e Interfaces**!
 
-Este módulo aprofunda dois conceitos fundamentais da POO: **Abstração** (ocultar complexidade) e **Interfaces** 
-(definir contratos). Você aprenderá a criar código mais flexível, reutilizável e profissional, aplicando padrões de 
-design baseados em interfaces e explorando o polimorfismo em situações reais.
+
+# 📚 Module 04 - Abstração e ‘Interfaces’ em Java
+
+Bem-vindo ao **Módulo 04: Programação Orientada a Objetos com Abstração e ‘Interfaces’**!
+
+Este módulo aprofunda dois conceitos fundamentais da POO: **Abstração** (ocultar complexidade) e **‘Interfaces’** 
+(definir contratos). Você aprenderá a criar código mais flexível, reutilizável e profissional, aplicando padrão de 
+‘design’ baseados em ‘interfaces’ e explorando o polimorfismo em situações reais.
 
 ---
 
@@ -12,12 +41,12 @@ design baseados em interfaces e explorando o polimorfismo em situações reais.
 
 O que será possível com este módulo:
 
-✅ Entender **Interfaces** como contratos de desenvolvimento  
-✅ Implementar **polimorfismo** através de interfaces  
+✅ Entender **‘Interfaces’** como contratos de desenvolvimento  
+✅ Implementar **polimorfismo** por ‘interfaces’  
 ✅ Trabalhar com **classes abstratas** e métodos abstratos  
-✅ Usar **métodos default** em interfaces (Java 8+)  
-✅ Aplicar **padrões de design** baseados em interfaces  
-✅ Implementar **serialização genérica** de objetos  
+✅ Usar **métodos ‘default’** em ‘interfaces’ (Java 8+)  
+✅ Aplicar **padrões de ‘design’** baseados em ‘interfaces’  
+✅ Implementar **serializer genérica** de objetos  
 ✅ Criar **enums avançados** com métodos e atributos  
 ✅ Desenvolver **aplicações profissionais** com boas práticas  
 
@@ -47,24 +76,18 @@ Os exercícios de Interfaces trabalham com contratos que múltiplas classes impl
 
 ### 🚗 Exercise 47 - Caminhão e Carro
 
-Implementa diferentes tipos de veículos usando uma interface comum `Veiculo`.
+Implementa diferentes tipos de veículos usando uma ‘interface’ comum `Veiculo`.
 
 **Conceitos:**
-- Uma classe pode implementar múltiplas interfaces
+- Uma classe pode implementar múltiplas ‘interfaces’
 - Polimorfismo com interfaces
 - Tratamento uniforme de objetos diferentes
 
-**Localização:** `pratices/interfaces/exercise47/`
 
 ### 🎮 Exercise 48 - Sistema de Salvamento de Jogo
 
 Sistema completo de salvamento e carregamento usando a interface `ISaveable`.
 
-**Arquivos:**
-- `ISaveable.java` - Interface para objetos que podem ser salvos
-- `Player.java` - Jogador implementando ISaveable
-- `Monster.java` - Monstro implementando ISaveable
-- `GameInterface.java` - Sistema de jogo com salvamento/carregamento
 
 **Funcionalidades:**
 - ✅ Salvar estado de qualquer objeto que implemente ISaveable
@@ -73,32 +96,10 @@ Sistema completo de salvamento e carregamento usando a interface `ISaveable`.
 - ✅ Menu interativo com demonstração
 
 **Conceitos Aprendidos:**
-- Interface como contrato para serialização
+- ‘Interface’ como contrato para serialização
 - Polimorfismo com múltiplas implementações
-- Padrão Strategy com interfaces
+- Padrão Strategy com ‘interfaces’
 - Reutilização de código
-
-**Exemplo de Saída:**
-```
-========== SISTEMA DE JOGO ==========
-
-Jogador criado: Jogador{nome='Aragorn', pontos_vida=100, nivel=15}
-Monstro criado: Monstro{nome='Goblin', pontos_vida=50, forca=8}
-
-========== SALVANDO DADOS ==========
-
-Salvando: Monstro{nome='Goblin', pontos_vida=50, forca=8}
-✓ Dados salvos: [Goblin, 50, 8]
-
-========== CARREGANDO DADOS ==========
-
-Carregando dados para: Monstro
-✓ Dados carregados com sucesso
-
-Monstro após carregamento: Monstro{nome='Goblin', pontos_vida=50, forca=8}
-```
-
-**Localização:** `pratices/interfaces/exercise48/`
 
 ---
 
@@ -116,43 +117,7 @@ Implementa um sistema de mapeamento com pontos de interesse brasileiros reais e 
 - Serializar em formato JSON com chaves em português
 - Demonstrar pontos brasileiros reais
 
-**Arquivos:**
-- `Mappable.java` - Interface para objetos mapeáveis
-- `Building.java` - Edifícios/atrações (ENTRETENIMENTO, GOVERNO, RESIDENCIAL, ESPORTES)
-- `UtilityLine.java` - Linhas de utilidade (AGUA, GAS, ELETRICIDADE, FIBRA_OPTICA)
-- `Main.java` - Demonstração com pontos brasileiros
 
-**Enums em Português:**
-- `Geometria`: PONTO, LINHA, POLIGONO
-- `Cor`: PRETO, AZUL, VERDE, LARANJA, VERMELHO
-- `MarcadorPonto`: CIRCULO, ALFINETE, ESTRELA, QUADRADO, TRIANGULO
-- `MarcadorLinha`: TRACEJADA, PONTILHADA, SOLIDA
-- `TipoUso`: ENTRETENIMENTO, GOVERNO, RESIDENCIAL, ESPORTES
-- `TipoUtilidade`: AGUA, GAS, ELETRICIDADE, FIBRA_OPTICA
-
-**Pontos Brasileiros Reais:**
-- 🗿 Cristo Redentor - Rio de Janeiro (ENTRETENIMENTO)
-- 🎨 MASP - São Paulo (ENTRETENIMENTO)
-- ⚽ Estádio Maracanã - Rio de Janeiro (ESPORTES)
-- 🏛️ Palácio do Planalto - Brasília (GOVERNO)
-- 🏠 Cobertura Leblon - Rio de Janeiro (RESIDENCIAL)
-
-**Infraestruturas:**
-- 💧 Adutora Cantareira - São Paulo (AGUA)
-- ⚡ Linha de Transmissão 500kV - Rio de Janeiro (ELETRICIDADE)
-- 🔧 Gasoduto Bolívia-Brasil - Mato Grosso (GAS)
-- 📡 Fibra Óptica Br Telecom - Eixo SP-RJ (FIBRA_OPTICA)
-
-**Exemplo de Saída JSON (Português):**
-```
-"propriedades" {
-  "tipo": "PONTO",
-  "rótulo": "Cristo Redentor - Rio de Janeiro (ENTRETENIMENTO)",
-  "marcador": "VERDE TRIANGULO",
-  "nome": "Cristo Redentor - Rio de Janeiro",
-  "uso": "ENTRETENIMENTO"
-"}"
-```
 
 **Conceitos Avançados:**
 - Interface com métodos default
@@ -164,16 +129,16 @@ Implementa um sistema de mapeamento com pontos de interesse brasileiros reais e 
 
 ## 💡 Conceitos-Chave Aprendidos
 
-**Interfaces vs Classes Abstratas:** Interfaces definem o "O QUE" (contrato). 
+**‘Interfaces’ vs Classes Abstratas:** ‘Interfaces’ definem o "O QUE" (contrato). 
 Classes abstratas definem o "O QUE" E o "COMO" (com implementação parcial). 
-Uma classe pode implementar múltiplas interfaces, mas herdar de uma só classe abstrata.
+Uma classe pode implementar múltiplas ‘interfaces’, mas herdar de uma só classe abstrata.
 
-**Polimorfismo em Ação:** Diferentes classes implementando a mesma interface respondendo de 
-formas diferentes ao mesmo método. Exemplo: Player e Monster salvam/carregam, mas cada um com seus próprios dados.
+**Polimorfismo em Ação:** Diferentes classes implementando a mesma ‘interface’ respondendo de 
+formas diferentes ao mesmo método. Exemplo: ‘Player’ e Monster salvam/carregam, mas cada um com seus próprios dados.
 
-**Padrões de Design:** Usei Factory Pattern com interfaces pra criar objetos. 
-Strategy Pattern com ISaveable pra permitir diferentes estratégias de serialização. 
-Dependency Injection com interfaces pra desacoplar código.
+**Padrões de ‘Design’:** Usei Factory Pattern com ‘interfaces’ pra criar objetos. 
+Strategy Pattern com ISaveable para permitir diferentes estratégias de serialização. 
+Dependency Injection com ‘interfaces’ para desacoplar código.
 
 ---
 
@@ -181,9 +146,9 @@ Dependency Injection com interfaces pra desacoplar código.
 
 Neste módulo consegui demonstrar:
 
-✅ Domínio sobre **Interfaces** e seus contratos  
+✅ Domínio sobre **‘Interfaces’** e seus contratos  
 ✅ Compreensão de **Polimorfismo** em profundidade  
-✅ Implementação de **padrões de design** profissionais  
+✅ Implementação de **padrões de ‘design’** profissionais  
 ✅ Criação de **código flexível e reutilizável**  
 ✅ Aplicação de **SOLID principles** (ISP, DIP)  
 ✅ Desenvolvimento com **localização em português**  

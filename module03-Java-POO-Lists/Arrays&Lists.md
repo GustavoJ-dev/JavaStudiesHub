@@ -1,4 +1,34 @@
-# 📚 Module 03 - POO com Arrays e Listas em Java
+# >[⚠️ 👇LEIA COM ATENÇÃO👇 ⚠️]
+>
+># 📖 Sobre este módulo
+>
+>
+>## 📝 Material de Estudo Pessoal
+>
+>As apostilas presentes neste módulo foram elaboradas por mim como parte do meu processo de aprendizado e como
+material de consulta durante os meus estudos em Java. Meu objetivo ao produzi-las é reforçar o conhecimento adquirido,
+organizar os conceitos estudados e criar uma referência para revisões futuras.
+>
+>## 🎓 Fonte do Conteúdo
+>
+>O conteúdo foi organizado, estruturado e escrito por mim com base nos assuntos abordados no curso `Java Programming 
+>Masterclass`, ministrado por `Tim Buchalka` e disponibilizado na `Udemy`, além de pesquisas complementares e consultas à
+>documentação oficial da Oracle.
+>
+>## 💻 Sobre os Exercícios
+>
+>Os exercícios e desafios fazem parte do processo de aprendizagem do curso e incluem tanto soluções desenvolvidas
+>durante os meus estudos `quanto implementações baseadas nas correções apresentadas pelo professor ao longo das aulas`.
+>
+>## 🎯 Finalidade
+>
+> - Todo o material presente neste módulo possui finalidade exclusivamente educacional e representa a minha evolução no
+    estudo da linguagem Java, servindo como registro da minha jornada de aprendizado e consulta pessoal.
+
+
+
+
+### 📚 Module 03 - POO com Arrays e Listas em Java
 
 Bem-vindo ao **Módulo 03: Programação Orientada a Objetos com Arrays e Listas**! 
 
@@ -111,7 +141,7 @@ Aplicação simples de gerenciamento de compras.
 Navegador de itinerário com destinos brasileiros.
 
 **Funcionalidades:**
-- Navegar para próximo destino (Forward)
+- Navegar para próximo destino (‘Forward’)
 - Navegar para destino anterior (Backward)
 - Exibir todos os locais
 - Ordenar por distância
@@ -133,9 +163,9 @@ Collections são dinâmicas, flexíveis e ótimas para objetos complexos com mui
 mas lento em inserir/remover no início. LinkedList é o oposto - rápido pra inserir/remover no início, 
 mas lento pra acesso aleatório. ArrayList poupa memória, LinkedList consome mais.
 
-**Padrões de Design:** Usei muito CRUD (criar, ler, atualizar, deletar) nos contatos e clientes. 
-Iterator no Itinerary pra navegar pra frente e trás. Comparator pra ordenar tudo. 
-Menu Pattern com switch pra estruturar as interfaces.
+**Padrões de ‘Design’:** Usei muito CRUD (criar, ler, atualizar, deleitar) nos contacts e clientes. 
+Iterator no Itinerary para navegar para frente e trás. Comparator para ordenar tudo. 
+Menu Pattern com switch para estruturar as ‘interfaces’.
 
 **Boas Práticas:** Encapsulamento com métodos privados. Validação pra garantir consistência.
 Nomes claros que falam por si. DRY - métodos reutilizáveis sem repetir código. E JavaDoc em português documentando tudo.  
