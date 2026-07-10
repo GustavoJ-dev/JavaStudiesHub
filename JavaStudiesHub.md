@@ -19,7 +19,7 @@
 >
 ># **📝 Materiais de Estudo**
 >
->As apostilas, resumos e demais content presentes neste repositório foram elaborados por mim como parte do meu 
+>As apostilas, resumos e demais materiais_de_estudo presentes neste repositório foram elaborados por mim como parte do meu 
 >processo de aprendizagem e como material de consulta pessoal. Todo o conteúdo foi organizado, estruturado e escrito 
 >por mim, refletindo o meu entendimento sobre cada assunto estudado. Durante a sua elaboração, utilizo como base 
 >diferentes fontes de conhecimento, como cursos, documentações oficiais, livros, artigos técnicos e pesquisas
@@ -125,7 +125,7 @@ Objetos para desenvolver soluções mais modulares e bem estruturadas.
 
 
 ## ⚡ Module 07 — Lambda Expressions & Functional Interfaces:
-- Este módulo marca minha introdução aos recursos de programação funcional presentes no Java moderno, 
+- Este módulo marca a minha introdução aos recursos de programação funcional presentes no Java moderno, 
 explorando Expressões Lambda, Interfaces Funcionais, Method References e as principais interfaces do pacote 
 java.util.function. O foco está em compreender como esses recursos tornam o código mais conciso, legível e reutilizável,
 reduzindo a necessidade de implementações repetitivas e classes anônimas.
@@ -134,6 +134,17 @@ reduzindo a necessidade de implementações repetitivas e classes anônimas.
 Function, UnaryOperator e referências de método em diferentes cenários, consolidando conceitos fundamentais para o 
 desenvolvimento com as APIs modernas do Java e preparando a base para o estudo da Streams API e da programação 
 funcional aplicada.
+
+
+## 📦 Module 08 — Collections Framework:
+- Este módulo é dedicado ao estudo do Java Collections Framework, aprofundando o uso das principais estruturas de dados 
+da linguagem, como Lists, Sets e Maps. Durante esta etapa são exploradas as características, diferenças de desempenho e
+aplicações práticas de cada coleção, compreendendo como escolher a estrutura mais adequada para cada cenário e como 
+utilizar algoritmos de busca, ordenação e navegação de forma eficiente.
+
+- Além das apostilas de estudo, o módulo reúne exercícios e projetos práticos que demonstram a aplicação das coleções 
+em diferentes contextos, consolidando conceitos como Comparable, Comparator, manipulação de dados, modelagem orientada 
+a objetos e boas práticas de desenvolvimento para construir aplicações mais organizadas, reutilizáveis e escaláveis. 
 
 
 

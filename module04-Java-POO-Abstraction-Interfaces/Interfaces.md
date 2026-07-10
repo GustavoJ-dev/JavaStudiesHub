@@ -66,7 +66,7 @@ Implementa um sistema de loja com produtos diferentes usando classes abstratas.
 - Polimorfismo em estruturas de dados
 - Encapsulamento com `private` e `protected`
 
-**Localização:** `pratices/abstraction/`
+**Localização:** `praticas/abstraction/`
 
 ---
 
@@ -109,7 +109,7 @@ Sistema completo de salvamento e carregamento usando a interface `ISaveable`.
 
 Implementa um sistema de mapeamento com pontos de interesse brasileiros reais e infraestruturas.
 
-**Localização:** `pratices/interfaces/challenge/mapJSON/`
+**Localização:** `praticas/interfaces/challenge/mapJSON/`
 
 **Funcionalidades:**
 - Mapear edifícios/atrações com localização e tipo

@@ -41,9 +41,9 @@ Nested Classes e o uso de Collections.
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `E:/developer/projetos/estudos/JavaStudiesHub/module02-Java-POO/src/content`.
+-  `E:/developer/projetos/estudos/JavaStudiesHub/module02-Java-POO/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `E:/developer/projetos/estudos/JavaStudiesHub/module02-Java-POO/src/exercises`.
+-  `E:/developer/projetos/estudos/JavaStudiesHub/module02-Java-POO/src/praticas`.
 
 
 # 🚀 Conteúdo Abordado

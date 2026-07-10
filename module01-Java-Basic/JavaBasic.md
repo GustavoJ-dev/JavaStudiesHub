@@ -41,9 +41,9 @@ preparando o terreno para conceitos mais avançados como Programação Orientada
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `E:/developer/projetos/estudos/JavaStudiesHub/module01-java-basic/src/content`.
+-  `E:/developer/projetos/estudos/JavaStudiesHub/module01-java-basic/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `E:/developer/projetos/estudos/JavaStudiesHub/module01-java-basic/src/exercises`.
+-  `E:/developer/projetos/estudos/JavaStudiesHub/module01-java-basic/src/praticas`.
 
 
 # 🚀 Conteúdo Abordado
