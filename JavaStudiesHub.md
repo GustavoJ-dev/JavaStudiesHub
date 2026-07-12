@@ -147,4 +147,13 @@ em diferentes contextos, consolidando conceitos como Comparable, Comparator, man
 a objetos e boas práticas de desenvolvimento para construir aplicações mais organizadas, reutilizáveis e escaláveis. 
 
 
+## 📚 Module 09 - Mutabilidade e Imutabilidade em Java:
 
+- Este módulo aprofunda os conceitos de Mutabilidade e Imutabilidade, explorando o gerenciamento e a proteção do estado
+dos objetos em Java. Durante os estudos, são aplicadas técnicas como cópias defensivas, encapsulamento de coleções e 
+controle de referências, buscando tornar o código mais previsível, seguro e organizado.
+
+- Além dos conceitos de mutabilidade, o módulo integra conhecimentos adquiridos anteriormente através de projetos 
+práticos, utilizando Generics, Collections, Lambdas, Interfaces Funcionais, Records e Sealed Classes. Entre os projetos 
+desenvolvidos estão um sistema bancário e uma estrutura genérica de jogos, utilizada na implementação de jogos como 
+Shooter Game e Pirate Game.

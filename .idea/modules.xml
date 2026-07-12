@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaStudiesHub.iml" filepath="$PROJECT_DIR$/JavaStudiesHub.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module11-Java-POO-Core/Module11-Java-POO-Core.iml" filepath="$PROJECT_DIR$/Module11-Java-POO-Core/Module11-Java-POO-Core.iml" />
       <module fileurl="file://$PROJECT_DIR$/module01-Java-Basic/module01-Java-Basic.iml" filepath="$PROJECT_DIR$/module01-Java-Basic/module01-Java-Basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/module02-Java-POO/module02-Java-POO.iml" filepath="$PROJECT_DIR$/module02-Java-POO/module02-Java-POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/module03-Java-POO-Lists/module03-Java-POO-Lists.iml" filepath="$PROJECT_DIR$/module03-Java-POO-Lists/module03-Java-POO-Lists.iml" />
@@ -14,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/module08-Java-POO-Collections/module08-Java-POO-Collections.iml" filepath="$PROJECT_DIR$/module08-Java-POO-Collections/module08-Java-POO-Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/module09-Java-POO-Mutability/module09-Java-POO-Mutability.iml" filepath="$PROJECT_DIR$/module09-Java-POO-Mutability/module09-Java-POO-Mutability.iml" />
       <module fileurl="file://$PROJECT_DIR$/module10-Java-POO-Streams/module10-Java-POO-Streams.iml" filepath="$PROJECT_DIR$/module10-Java-POO-Streams/module10-Java-POO-Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module11-Java-POO-Core/module11-Java-POO-Core.iml" filepath="$PROJECT_DIR$/module11-Java-POO-Core/module11-Java-POO-Core.iml" />
     </modules>
   </component>
 </project>
