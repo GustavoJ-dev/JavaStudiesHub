@@ -157,3 +157,29 @@ controle de referências, buscando tornar o código mais previsível, seguro e o
 práticos, utilizando Generics, Collections, Lambdas, Interfaces Funcionais, Records e Sealed Classes. Entre os projetos 
 desenvolvidos estão um sistema bancário e uma estrutura genérica de jogos, utilizada na implementação de jogos como 
 Shooter Game e Pirate Game.
+
+
+## 📚 Module 10 - Streams API
+
+- Neste módulo aprofundei a **Streams API**, um dos recursos mais importantes do Java moderno para processamento 
+funcional de coleções. Aprendi a criar pipelines utilizando operações intermediárias e terminais, trabalhando com 
+**filter**, **map**, **flatMap**, **sorted**, **distinct**, **reduce**, **Collectors** e **Optional**, escrevendo código
+mais declarativo, limpo e eficiente.
+
+- Além dos conceitos fundamentais, desenvolvi aplicações para análise de dados de estudantes e cursos, 
+aplicando agrupamentos, particionamentos, estatísticas, transformações e coleta de resultados em diferentes estruturas.
+Esses projetos consolidaram o uso da programação funcional integrada à Programação Orientada a Objetos, utilizando 
+recursos modernos da linguagem para resolver problemas reais de forma reutilizável e organizada.
+
+
+## 📚 Module 11 - Java Date and Time API
+
+- Neste módulo aprofundei a moderna **Java Date and Time API (`java.time`)**, aprendendo a trabalhar com datas, horários, 
+períodos, durações, formatação e internacionalização utilizando classes como **LocalDate**, **LocalTime**, 
+**LocalDateTime**, **ZonedDateTime**, **ZoneId**, **Duration**, **Period** e **DateTimeFormatter**. Também explorei o 
+uso de **Locale** para representar informações temporais em diferentes regiões e idiomas.
+
+- Além dos conceitos fundamentais, desenvolvi uma aplicação prática de agendamento de reuniões entre funcionários 
+localizados em diferentes fusos horários, aplicando conversão entre zonas de tempo, cálculo de diferenças de horário, 
+verificação de horário de verão (**Daylight Saving Time**) e integração da **Java Date and Time API** com **Streams**,
+reforçando boas práticas e recursos modernos da linguagem.
