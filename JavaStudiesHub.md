@@ -34,18 +34,18 @@
 >- 💻 Exercícios, Desafios e Projetos.
 >
 >
->* Os exercícios, desafios e projetos disponíveis neste repositório representam o meu processo de aprendizagem. Eles 
+> **Os exercícios, desafios e projetos disponíveis neste repositório representam o meu processo de aprendizagem. Eles 
 >incluem atividades propostas durante cursos, implementações desenvolvidas ao longo das aulas, soluções construídas 
 >com base nas correções apresentadas pelos instrutores e projetos desenvolvidos por iniciativa própria para aprofundar 
 >conceitos específicos. Por esse motivo, nem todos os exercícios possuem autoria integralmente original, 
 >pois fazem parte do próprio processo de estudo e acompanhamento das aulas. Sempre que possível, procuro documentar,
 >organizar, refatorar e expandir essas implementações como forma de consolidar o aprendizado e aplicar boas práticas 
->de desenvolvimento.
+>de desenvolvimento.**
 >
 ># 🎯 Finalidade deste Repositório
 >
->O JavaStudiesHub não visa reproduzir ou substituir qualquer curso, livro ou material utilizado 
->como referência durante os meus estudos.
+>**O JavaStudiesHub não visa reproduzir ou substituir qualquer curso, livro ou material utilizado
+>como referência durante os meus estudos.**
 >
 >Este repositório existe para:
 >
@@ -183,3 +183,11 @@ uso de **Locale** para representar informações temporais em diferentes regiõe
 localizados em diferentes fusos horários, aplicando conversão entre zonas de tempo, cálculo de diferenças de horário, 
 verificação de horário de verão (**Daylight Saving Time**) e integração da **Java Date and Time API** com **Streams**,
 reforçando boas práticas e recursos modernos da linguagem.
+
+## 🔍 Module 12 - Java Regular Expressions
+
+- Estudo de Expressões Regulares (Regex) em Java, explorando criação de padrões, classes de caracteres, quantificadores, 
+âncoras, grupos de captura e lookaheads para localizar, extrair e validar informações em textos.
+
+- Prática com Pattern, Matcher, Streams API e expressões lambda, aplicando Regex em desafios de correspondência textual e
+no desenvolvimento de um validador e extrator de endereços de e-mail.
