@@ -1,0 +1,58 @@
+Em desenvolvimento de software , front-end refere-se à camada de apresentação com a qual os usuários interagem, enquanto
+
+back-end refere-se ao gerenciamento e processamento de dados nos bastidores. "Full stack" engloba ambos em conjunto. No modelo
+
+cliente-servidor , o cliente é geralmente considerado o front-end, responsável pela maioria das tarefas voltadas para o usuário,
+
+e o servidor é o back-end, que gerencia principalmente os dados e a lógica.
+
+Introdução
+Em arquitetura de software , podem existir várias camadas entre o hardware e o usuário final . O front-end é uma
+
+abstração que simplifica os componentes subjacentes, fornecendo uma interface amigável , enquanto o back-end lida com o
+
+armazenamento de dados e a lógica de negócios .
+
+Exemplos
+Site de comércio eletrônico : O front-end é a interface do usuário (por exemplo, páginas de produtos, barra de pesquisa),
+
+enquanto o back-end processa pagamentos e atualiza o estoque.
+
+Aplicativo bancário : A interface exibe os saldos das contas, enquanto o sistema interno processa as transações com
+
+ segurança e atualiza os registros.
+
+Plataforma de mídia social : A interface exibe o feed de notícias, enquanto o servidor armazena as publicações e gerencia as notificações.
+
+Em telecomunicações , o front-end pode ser considerado um dispositivo ou serviço, enquanto o back-end é a infraestrutura que
+
+ suporta a prestação desses serviços.
+
+Uma regra geral é que o front-end, ou lado do cliente, inclui todos os componentes manipulados pelo usuário. O back-end,
+
+ou lado do servidor, geralmente reside no servidor , muitas vezes fisicamente distante do usuário.
+
+Definições de software
+Existem muitas maneiras diferentes de definir os termos "front-end" e "back-end" no contexto de software. Por exemplo, em
+
+sistemas de gerenciamento de conteúdo , o front-end se refere às interfaces voltadas para os usuários finais, e o back-end se
+
+refere às interfaces voltadas para os usuários administrativos. [ 1 ] [ 2 ] Da mesma forma, no campo da síntese de fala , o
+
+front-end se refere à parte do sistema de síntese que converte o texto de entrada em uma representação fonética simbólica , e
+
+o back-end converte a representação fonética simbólica em sons reais. [ 3 ] Em compiladores de linguagens de programação , o
+
+front-end traduz o código-fonte do computador em uma representação intermediária , e o back-end produz o código executável a
+
+partir dessa representação intermediária. O back-end geralmente otimiza o código para produzir uma versão mais rápida.
+
+A distinção entre front-end e back-end também pode separar um analisador sintático que lida com o código-fonte de um compilador
+
+que gera e otimiza o código executável . Alguns projetos, como o GCC , oferecem múltiplas opções de front-end
+
+(analisando diferentes linguagens -fonte ) e múltiplas opções de back-end (gerando código para diferentes processadores de destino ). [ 4 ]
+
+Algumas aplicações com interface gráfica de usuário (GUI) funcionam como uma interface simplificada para programas subjacentes
+
+com interface de linha de comando (CLI), evitando que os usuários precisem aprender a terminologia e os comandos da CLI .

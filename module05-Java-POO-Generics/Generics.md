@@ -51,7 +51,7 @@ O que será possível com este módulo:
 ✅ Aplicar a regra **PECS (Producer Extends Consumer Super)**
 ✅ Entender o funcionamento do **Type Erasure**
 ✅ Implementar ordenação utilizando **Comparable** e **Comparator**
-✅ Desenvolver aplicações reutilizáveis seguindo boas práticas
+✅ Desenvolver aplicações reutilizáveis seguindo boas praticas
 
 ---
 

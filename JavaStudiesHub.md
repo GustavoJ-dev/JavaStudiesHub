@@ -186,8 +186,20 @@ reforçando boas práticas e recursos modernos da linguagem.
 
 ## 🔍 Module 12 - Java Regular Expressions
 
-- Estudo de Expressões Regulares (Regex) em Java, explorando criação de padrões, classes de caracteres, quantificadores, 
+- Estudo de **Expressões Regulares** (Regex) em Java, explorando criação de padrões, classes de caracteres, quantificadores, 
 âncoras, grupos de captura e lookaheads para localizar, extrair e validar informações em textos.
 
-- Prática com Pattern, Matcher, Streams API e expressões lambda, aplicando Regex em desafios de correspondência textual e
+- Prática com **Pattern**, **Matcher**, Streams API e expressões lambda, aplicando Regex em desafios de correspondência textual e
 no desenvolvimento de um validador e extrator de endereços de e-mail.
+
+
+## 📦 Module 13 - Java IOFiles
+
+- Neste módulo aprofundei os conceitos de Entrada e Saída de Dados (I/O) em Java, explorando a leitura e escrita de arquivos 
+texto e binários utilizando as APIs **java.io** e **java.nio.file**. Durante os estudos trabalhei com classes como **Files**, 
+**Path**, **BufferedReader**, **BufferedWriter** e **RandomAccessFile**, compreendendo diferentes formas de manipular dados 
+persistentes na linguagem.
+
+- Além das operações de I/O, apliquei esses conhecimentos em desafios práticos envolvendo serialização de objetos em JSON,
+manipulação de arquivos binários, processamento de dados com Streams API, utilização de Collections Framework e reforço
+dos conceitos de Programação Orientada a Objetos, desenvolvendo aplicações mais organizadas e próximas de cenários reais.

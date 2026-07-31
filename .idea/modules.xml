@@ -15,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/module10-Java-POO-Streams/module10-Java-POO-Streams.iml" filepath="$PROJECT_DIR$/module10-Java-POO-Streams/module10-Java-POO-Streams.iml" />
       <module fileurl="file://$PROJECT_DIR$/module11-Java-POO-Core/module11-Java-POO-Core.iml" filepath="$PROJECT_DIR$/module11-Java-POO-Core/module11-Java-POO-Core.iml" />
       <module fileurl="file://$PROJECT_DIR$/module12-Java-POO-RegularExpressions/module12-Java-POO-RegularExpressions.iml" filepath="$PROJECT_DIR$/module12-Java-POO-RegularExpressions/module12-Java-POO-RegularExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module13-Java-POO-IOFiles/module13-Java-POO-IOFiles.iml" filepath="$PROJECT_DIR$/module13-Java-POO-IOFiles/module13-Java-POO-IOFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module14-Java-POO-Multithreading/module14-Java-POO-Multithreading.iml" filepath="$PROJECT_DIR$/module14-Java-POO-Multithreading/module14-Java-POO-Multithreading.iml" />
     </modules>
   </component>
 </project>
