@@ -203,3 +203,15 @@ persistentes na linguagem.
 - Além das operações de I/O, apliquei esses conhecimentos em desafios práticos envolvendo serialização de objetos em JSON,
 manipulação de arquivos binários, processamento de dados com Streams API, utilização de Collections Framework e reforço
 dos conceitos de Programação Orientada a Objetos, desenvolvendo aplicações mais organizadas e próximas de cenários reais.
+
+
+## 🖥️ Module 14 - Java Multithreading
+
+- Este módulo reúne exercícios focados em **programação concorrente em Java**, explorando desde a criação de **Threads** 
+até o gerenciamento de tarefas utilizando o **Executor Framework**. Ao longo das práticas foram desenvolvidas aplicações 
+que simulam cenários reais envolvendo processamento paralelo, sincronização entre múltiplas threads e comunicação segura 
+entre recursos compartilhados.
+
+- Durante os desafios foram utilizados recursos como **Thread**, **Runnable**, **Synchronization**, **wait()**, **notify()**,
+**ExecutorService** e **Thread Pools**, aplicando boas práticas para desenvolver aplicações concorrentes mais organizadas, 
+eficientes e seguras.
