@@ -35,6 +35,10 @@ Durante os estudos foram desenvolvidas aplicações práticas envolvendo execuç
 **Produtor-Consumidor**, uso de **ExecutorService**, controle de acesso a recursos compartilhados e boas práticas
 para programação concorrente.
 
+#$ 📚 Materiais de Estudo
+
+- **PDF:** `src\materiais_de_estudo\Java - JDBC driverDb.pdf`
+
 ---
 
 ## 🎯 Objetivos do Módulo
