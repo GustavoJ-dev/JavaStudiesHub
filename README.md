@@ -215,3 +215,16 @@ entre recursos compartilhados.
 - Durante os desafios foram utilizados recursos como **Thread**, **Runnable**, **Synchronization**, **wait()**, **notify()**,
 **ExecutorService** e **Thread Pools**, aplicando boas práticas para desenvolver aplicações concorrentes mais organizadas, 
 eficientes e seguras.
+
+
+## 🗄️ Module 15 - Java JDBC
+
+- Este módulo reúne exercícios e práticas focados em **acesso e manipulação de bancos de dados em Java**, utilizando o
+**JDBC (Java Database Connectivity)**. Ao longo das práticas foi desenvolvido o projeto **PataViva**, simulando um 
+sistema de gerenciamento de consultas veterinárias e explorando operações de persistência em um banco de dados MySQL.
+
+- Durante os desafios foram utilizados recursos como **Connection**, **PreparedStatement**, **Statement**, **ResultSet**, 
+**CallableStatement**, **JDBC Escape Sequences**, além de **CRUD**, **Stored Procedures**, **Functions** e **Views**. 
+Também foram exploradas diferentes abordagens de persistência e consultas utilizando **JPA, JPQL e CriteriaBuilder**, 
+trabalhando com relacionamentos, consultas e gerenciamento de dados. **Para aprofundar o conteúdo e conferir a implementação completa,
+consulte o [README do módulo](./jdbc.md).**
