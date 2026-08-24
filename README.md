@@ -227,4 +227,4 @@ sistema de gerenciamento de consultas veterinárias e explorando operações de 
 **CallableStatement**, **JDBC Escape Sequences**, além de **CRUD**, **Stored Procedures**, **Functions** e **Views**. 
 Também foram exploradas diferentes abordagens de persistência e consultas utilizando **JPA, JPQL e CriteriaBuilder**, 
 trabalhando com relacionamentos, consultas e gerenciamento de dados. **Para aprofundar o conteúdo e conferir a implementação completa,
-consulte o [README do módulo](./jdbc.md).**
+consulte o [README do módulo](E:\developer\projetos\estudos\JavaStudiesHub\module15-Java-POO-JDBC\jdbc.md).**
