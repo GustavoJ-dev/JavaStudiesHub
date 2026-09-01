@@ -44,6 +44,16 @@ Cada ativo possui:
 
 - **Código:** identifica o ativo dentro da aplicação.
 - **Preço:** representa sua cotação atual.
+  
+- Obs.: Os códigos abaixo são tickers, usados para identificar ações na Bolsa de Valores (B3):
+
+- PETR4 → Petrobras
+- VALE3 → Vale
+- ITUB4 → Itaú Unibanco
+- ABEV3 → Ambev
+- BBAS3 → Banco do Brasil
+
+Os valores ao lado representam o preço de cada ativo utilizado no exemplo.
 
 Atualmente, os ativos são mantidos diretamente na memória do servidor.
 
