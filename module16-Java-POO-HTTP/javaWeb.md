@@ -1,10 +1,12 @@
-# 📈 BolsaAgora
+# Module 16 - Java NetWorking
 
 Bem-vindo ao **BolsaAgora**, um projeto prático desenvolvido com o objetivo de estudar e aplicar conceitos de **Java Networking**.
 
-A aplicação simula uma pequena plataforma de consulta de ativos financeiros. O usuário se conecta ao servidor, informa o código de um ativo e recebe como resposta sua cotação.
+A aplicação simula uma pequena plataforma de consulta de ativos financeiros. O usuário se conecta ao servidor, informa o código 
+de um ativo e recebe como resposta sua cotação.
 
-O foco do projeto não é reproduzir uma aplicação real de investimentos, mas utilizar um único sistema para aplicar, na prática, diferentes recursos relacionados à comunicação em rede no Java.
+O foco do projeto não é reproduzir uma aplicação real de investimentos, mas utilizar um único sistema para aplicar, na prática, 
+diferentes recursos relacionados à comunicação em rede no Java.
 
 ---
 
@@ -227,14 +229,17 @@ Durante o desenvolvimento do BolsaAgora, foram praticados conceitos como:
 
 O BolsaAgora foi desenvolvido como uma forma prática de consolidar os conhecimentos estudados sobre **Java Networking**.
 
-O projeto permite compreender como diferentes mecanismos de comunicação podem ser utilizados em uma aplicação Java, desde a comunicação através de sockets até recursos mais modernos como NIO, comunicação assíncrona, WebSocket e Virtual Threads.
+O projeto permite compreender como diferentes mecanismos de comunicação podem ser utilizados em uma aplicação Java, desde a
+comunicação através de sockets até recursos mais modernos como NIO, comunicação assíncrona, WebSocket e Virtual Threads.
 
-Além de estudar cada tecnologia individualmente, o projeto busca demonstrar como escolher diferentes recursos de acordo com a necessidade de cada parte de uma aplicação.
+Além de estudar cada tecnologia individualmente, o projeto busca demonstrar como escolher diferentes recursos de acordo com a 
+necessidade de cada parte de uma aplicação.
 
 ---
 
 # 🚀 Objetivo Final
 
-O objetivo final do BolsaAgora é servir como um projeto de demonstração dos conhecimentos adquiridos em **Java Networking**, reunindo diferentes conceitos estudados em uma única aplicação prática.
+O objetivo final do BolsaAgora é servir como um projeto de demonstração dos conhecimentos adquiridos em **Java Networking**, 
+reunindo diferentes conceitos estudados em uma única aplicação prática.
 
 O projeto faz parte dos estudos de Java e tem como foco principal **aprendizado, prática e demonstração de conhecimento**.

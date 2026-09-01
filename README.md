@@ -228,3 +228,15 @@ sistema de gerenciamento de consultas veterinárias e explorando operações de 
 Também foram exploradas diferentes abordagens de persistência e consultas utilizando **JPA, JPQL e CriteriaBuilder**, 
 trabalhando com relacionamentos, consultas e gerenciamento de dados. **Para aprofundar o conteúdo e conferir a implementação completa,
 consulte o README do módulo em: **(`JavaStudiesHub\module15-Java-POO-JDBC\jdbc.md`).**
+
+## 📈 Module 16 — Java Networking
+
+- Este módulo é voltado ao estudo de **Java Networking**, explorando os principais recursos utilizados na comunicação entre 
+aplicações em Java. Durante esta etapa são abordados conceitos como **Sockets, TCP, UDP, Java NIO, Channels, Buffers e Selectors**, 
+aplicados na construção de uma aplicação de consulta de ativos financeiros.
+
+- Além do conteúdo teórico presente nas apostilas, o módulo reúne práticas voltadas à comunicação cliente-servidor e ao uso 
+de diferentes mecanismos de networking. Também são explorados recursos modernos do Java, como **HttpClient, CompletableFuture, 
+WebSocket e Virtual Threads**, permitindo compreender diferentes abordagens para comunicação, assincronismo e concorrência 
+em aplicações Java.Para aprofundar o conteúdo e conferir a implementação completa, consulte o README do módulo em: 
+**(`JavaStudiesHub\module16-Java-POO-HTTP\javaWeb.md`).**
