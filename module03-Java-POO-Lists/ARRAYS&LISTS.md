@@ -1,34 +1,5 @@
-# >[⚠️ 👇LEIA COM ATENÇÃO👇 ⚠️]
->
-># 📖 Sobre este módulo
->
->
->## 📝 Material de Estudo Pessoal
->
->As apostilas presentes neste módulo foram elaboradas por mim como parte do meu processo de aprendizado e como
-material de consulta durante os meus estudos em Java. Meu objetivo ao produzi-las é reforçar o conhecimento adquirido,
-organizar os conceitos estudados e criar uma referência para revisões futuras.
->
->## 🎓 Fonte do Conteúdo
->
->O conteúdo foi organizado, estruturado e escrito por mim com base nos assuntos abordados no curso `Java Programming 
->Masterclass`, ministrado por `Tim Buchalka` e disponibilizado na `Udemy`, além de pesquisas complementares e consultas à
->documentação oficial da Oracle.
->
->## 💻 Sobre os Exercícios
->
->Os exercícios e desafios fazem parte do processo de aprendizagem do curso e incluem tanto soluções desenvolvidas
->durante os meus estudos `quanto implementações baseadas nas correções apresentadas pelo professor ao longo das aulas`.
->
->## 🎯 Finalidade
->
-> - Todo o material presente neste módulo possui finalidade exclusivamente educacional e representa a minha evolução no
-    estudo da linguagem Java, servindo como registro da minha jornada de aprendizado e consulta pessoal.
 
-
-
-
-### 📚 Module 03 - POO com Arrays e Listas em Java
+# 📚 Module 03 - POO com Arrays e Listas em Java
 
 Bem-vindo ao **Módulo 03: Programação Orientada a Objetos com Arrays e Listas**! 
 
@@ -36,6 +7,12 @@ Este módulo aprofunda os conceitos de POO aplicando-os com estruturas de dados 
 **Arrays** e **Collections** (especialmente `ArrayList` e `LinkedList`). 
 Aprendendo a criar estruturas de dados reutilizáveis, 
 gerenciar coleções de objetos e implementar operações complexas com dados.
+
+# 📚 Guia do módulo
+-   Os conteúdos sobre o módulo se encontram na pasta:
+-  `JavaStudiesHub/module03-java-poo-lists/src/materiais_de_estudo`.
+-   Os exercícios e desafios se encontram na pasta:
+-  `JavaStudiesHub/module03-java-poo-lists/src/praticas`.
 
 ---
 

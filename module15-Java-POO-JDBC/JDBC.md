@@ -12,6 +12,12 @@ veterinária criada para aplicar os conceitos estudados.
 O projeto utiliza **JPA e Hibernate** para a persistência das entidades e **JDBC** para operações específicas do banco 
 de dados, como **Stored Procedures, Functions e Views**.
 
+# 📚 Guia do módulo
+-   Os conteúdos sobre o módulo se encontram na pasta:
+-  `JavaStudiesHub/module15-java-poo-jdbc/src/materiais_de_estudo`.
+-   Os exercícios e desafios se encontram na pasta:
+-  `JavaStudiesHub/module15-java-poo-jdbc/src/praticas`.
+
 ---
 
 ## 🎯 Objetivos do Módulo

@@ -1,4 +1,4 @@
-# Module 16 - Java NetWorking
+# Module 16 - Java Web Networking
 
 Bem-vindo ao **BolsaAgora**, um projeto prático desenvolvido com o objetivo de estudar e aplicar conceitos de **Java Networking**.
 
@@ -7,6 +7,12 @@ de um ativo e recebe como resposta sua cotação.
 
 O foco do projeto não é reproduzir uma aplicação real de investimentos, mas utilizar um único sistema para aplicar, na prática, 
 diferentes recursos relacionados à comunicação em rede no Java.
+
+# 📚 Guia do módulo
+-   Os conteúdos sobre o módulo se encontram na pasta:
+-  `JavaStudiesHub/module16-java-poo-networking/src/materiais_de_estudo`.
+-   Os exercícios e desafios se encontram na pasta:
+-  `JavaStudiesHub/module16-java-poo-networking/src/praticas`.
 
 ---
 

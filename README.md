@@ -6,58 +6,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Educational](https://img.shields.io/badge/Purpose-Educational-6f42c1?style=for-the-badge&logo=bookstack&logoColor=white)
 
-
-
-# >[⚠️ 👇LEIA COM ATENÇÃO👇 ⚠️]
->
-># 📖 Sobre o JavaStudiesHub
->
->O JavaStudiesHub é meu repositório dedicado ao estudo da linguagem Java. O seu principal objetivo é documentar a minha 
->evolução como desenvolvedor, reunindo num único lugar todo o material produzido ao longo da minha jornada de 
->aprendizado.
->
->
-># **📝 Materiais de Estudo**
->
->As apostilas, resumos e demais materiais_de_estudo presentes neste repositório foram elaborados por mim como parte do meu 
->processo de aprendizagem e como material de consulta pessoal. Todo o conteúdo foi organizado, estruturado e escrito 
->por mim, refletindo o meu entendimento sobre cada assunto estudado. Durante a sua elaboração, utilizo como base 
->diferentes fontes de conhecimento, como cursos, documentações oficiais, livros, artigos técnicos e pesquisas
->complementares, sempre reorganizando e adaptando as informações para criar um material próprio de estudo.
->
->* O meu objetivo ao produzir esse conteúdo é:
->
->- 📚 Reforçar o conhecimento adquirido durante os estudos.
->- 🧠 Consolidar conceitos através da escrita e organização do conteúdo.
->- 📖 Criar uma biblioteca pessoal para futuras consultas.
->- 🚀 Acompanhar a minha evolução ao longo da linguagem Java.
->- 💻 Exercícios, Desafios e Projetos.
->
->
-> **Os exercícios, desafios e projetos disponíveis neste repositório representam o meu processo de aprendizagem. Eles 
->incluem atividades propostas durante cursos, implementações desenvolvidas ao longo das aulas, soluções construídas 
->com base nas correções apresentadas pelos instrutores e projetos desenvolvidos por iniciativa própria para aprofundar 
->conceitos específicos. Por esse motivo, nem todos os exercícios possuem autoria integralmente original, 
->pois fazem parte do próprio processo de estudo e acompanhamento das aulas. Sempre que possível, procuro documentar,
->organizar, refatorar e expandir essas implementações como forma de consolidar o aprendizado e aplicar boas práticas 
->de desenvolvimento.**
->
-># 🎯 Finalidade deste Repositório
->
->**O JavaStudiesHub não visa reproduzir ou substituir qualquer curso, livro ou material utilizado
->como referência durante os meus estudos.**
->
->Este repositório existe para:
->
->- 📌 Registrar a minha evolução como desenvolvedor Java.
->- 📚 Organizar todo o conhecimento adquirido ao longo dos estudos.
->- 💡 servir como material de consulta para revisões futuras.
->- 🚀 Demonstrar a minha dedicação, disciplina e evolução técnica durante a minha formação.
->
->Todo o conteúdo disponibilizado aqui possui finalidade exclusivamente educacional e continuará a ser atualizado 
->conforme novos conhecimentos, tecnologias e projetos forem a ser incorporados à minha jornada de aprendizado.
-
-
 # Conteúdo do Repositório.
 
 ## Module 01 - Java Basics:
@@ -70,6 +18,8 @@ operadores, estruturas de controle, métodos e lógica de programação.
 aprendizagem, proporcionando uma introdução gradual aos principais recursos da linguagem e preparando o caminho para 
 conceitos mais avançados, como Programação Orientada a Objetos e o ecossistema Java.
 
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module01-Java-Basic\JAVABASICS.md](JavaStudiesHub/module01-Java-Basic/JAVABASICS.md)
+
 
 ## 🧩 Module 02 — Object-Oriented Programming (POO):
 
@@ -81,6 +31,8 @@ classes, objetos, encapsulamento, herança, polimorfismo e construção de hiera
 modelagem de sistemas orientados a objetos, permitindo aplicar os pilares da POO em cenários reais e desenvolver código
 mais organizado, reutilizável e de fácil manutenção.
 
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module02-Java-POO\POO.md](JavaStudiesHub\module02-Java-POO\POO.md)
+
 
 ## 📚 Module 03 — Object-Oriented Programming with Arrays & Collections:
 - Neste módulo aprofundo a aplicação da Programação Orientada a Objetos utilizando as principais estruturas de dados da 
@@ -91,6 +43,7 @@ implementação de operações CRUD e desenvolvimento de aplicações mais organ
 Collections ‘Framework’, algoritmos de busca e ordenação, navegação com iteradores e boas práticas de desenvolvimento 
 orientado a objetos, consolidando conceitos fundamentais para aplicações Java mais robustas.
 
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module03-Java-POO-Lists\ARRAYS&LISTS.md](JavaStudiesHub\module03-Java-POO-Lists\ARRAYS&LISTS.md)
 
 ## 🎭 Module 04 — Abstraction & Interfaces:
 
@@ -102,6 +55,8 @@ métodos ‘default’, enumerações avançadas e os princípios que tornam o c
 em cenários reais, utilizando serializer de objetos, sistemas de mapeamento, ‘interfaces’ polimórficas e boas práticas 
 de arquitetura, preparando a base para o desenvolvimento de aplicações Java mais profissional e escaláveis.
 
+  **Saiba mais sobre o módulo em:** [JavaStudiesHub\module04-Java-POO-Abstraction-Interfaces\INTERFACES.md](JavaStudiesHub\module04-Java-POO-Abstraction-Interfaces\INTERFACES.md)
+
 
 ## 📦 Module 05 — Generics:
 - Este módulo é dedicado ao estudo de Generics, um dos recursos mais importantes da linguagem Java para a criação de 
@@ -111,6 +66,8 @@ Bounds, Wildcards, a regra PECS, Type Erasure, além da utilização de Comparab
 - Além das apostilas de estudo, o módulo reúne exercícios e projetos práticos que demonstram a aplicação dos Generics em 
 diferentes cenários, evidenciando como esse recurso contribui para a construção de APIs mais robustas, coleções tipadas 
 e soluções escaláveis seguindo as boas práticas do desenvolvimento Java moderno.
+
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module05-Java-POO-Generics\GENERICS.md](JavaStudiesHub\module05-Java-POO-Generics\GENERICS.md)
 
 
 ## 🧩 Module 06 — Nested Classes:
@@ -122,6 +79,8 @@ e manutenção do código.
 - Além das apostilas de estudo, o módulo reúne exercícios e projetos práticos que demonstram a aplicação de classes 
 aninhadas em cenários reais, integrando conceitos como Comparator, Collections, Records e Programação Orientada a 
 Objetos para desenvolver soluções mais modulares e bem estruturadas.
+
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module06-Java-POO-NestedClasses\NESTEDCLASSES.md](JavaStudiesHub\module06-Java-POO-NestedClasses\NESTEDCLASSES.md)
 
 
 ## ⚡ Module 07 — Lambda Expressions & Functional Interfaces:
@@ -135,6 +94,8 @@ Function, UnaryOperator e referências de método em diferentes cenários, conso
 desenvolvimento com as APIs modernas do Java e preparando a base para o estudo da Streams API e da programação 
 funcional aplicada.
 
+  **Saiba mais sobre o módulo em:** [JavaStudiesHub\module07-Java-POO-Lambdas\LAMBDAS.md](JavaStudiesHub/module07-Java-POO-Lambdas/LAMBDAS.md)
+
 
 ## 📦 Module 08 — Collections Framework:
 - Este módulo é dedicado ao estudo do Java Collections Framework, aprofundando o uso das principais estruturas de dados 
@@ -145,6 +106,8 @@ utilizar algoritmos de busca, ordenação e navegação de forma eficiente.
 - Além das apostilas de estudo, o módulo reúne exercícios e projetos práticos que demonstram a aplicação das coleções 
 em diferentes contextos, consolidando conceitos como Comparable, Comparator, manipulação de dados, modelagem orientada 
 a objetos e boas práticas de desenvolvimento para construir aplicações mais organizadas, reutilizáveis e escaláveis. 
+
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module08-Java-POO-Collections\COLLECTIONS.md](JavaStudiesHub\module08-Java-POO-Collections\COLLECTIONS.md)
 
 
 ## 📚 Module 09 - Mutabilidade e Imutabilidade em Java:
@@ -157,6 +120,8 @@ controle de referências, buscando tornar o código mais previsível, seguro e o
 práticos, utilizando Generics, Collections, Lambdas, Interfaces Funcionais, Records e Sealed Classes. Entre os projetos 
 desenvolvidos estão um sistema bancário e uma estrutura genérica de jogos, utilizada na implementação de jogos como 
 Shooter Game e Pirate Game.
+
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module09-Java-POO-Mutability\MUTABILITY.md](JavaStudiesHub\module09-Java-POO-Mutability\MUTABILITY.md)
 
 
 ## 📚 Module 10 - Streams API
@@ -171,6 +136,8 @@ aplicando agrupamentos, particionamentos, estatísticas, transformações e cole
 Esses projetos consolidaram o uso da programação funcional integrada à Programação Orientada a Objetos, utilizando 
 recursos modernos da linguagem para resolver problemas reais de forma reutilizável e organizada.
 
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module10-Java-POO-Streams\STREAMS.md](JavaStudiesHub\module10-Java-POO-Streams\STREAMS.md)
+
 
 ## 📚 Module 11 - Java Date and Time API
 
@@ -184,6 +151,8 @@ localizados em diferentes fusos horários, aplicando conversão entre zonas de t
 verificação de horário de verão (**Daylight Saving Time**) e integração da **Java Date and Time API** com **Streams**,
 reforçando boas práticas e recursos modernos da linguagem.
 
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module11-Java-POO-Core\JAVACORE.md](JavaStudiesHub\module11-Java-POO-Core\JAVACORE.md)
+
 ## 🔍 Module 12 - Java Regular Expressions
 
 - Estudo de **Expressões Regulares** (Regex) em Java, explorando criação de padrões, classes de caracteres, quantificadores, 
@@ -191,6 +160,8 @@ reforçando boas práticas e recursos modernos da linguagem.
 
 - Prática com **Pattern**, **Matcher**, Streams API e expressões lambda, aplicando Regex em desafios de correspondência textual e
 no desenvolvimento de um validador e extrator de endereços de e-mail.
+
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module12-Java-POO-RegularExpressions\EXPRESSIONS.md](JavaStudiesHub\module12-Java-POO-RegularExpressions\EXPRESSIONS.md)
 
 
 ## 📦 Module 13 - Java IOFiles
@@ -204,6 +175,8 @@ persistentes na linguagem.
 manipulação de arquivos binários, processamento de dados com Streams API, utilização de Collections Framework e reforço
 dos conceitos de Programação Orientada a Objetos, desenvolvendo aplicações mais organizadas e próximas de cenários reais.
 
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module13-Java-POO-IOFiles\IOFILES.md](JavaStudiesHub\module13-Java-POO-IOFiles\IOFILES.md)
+
 
 ## 🖥️ Module 14 - Java Multithreading
 
@@ -216,6 +189,8 @@ entre recursos compartilhados.
 **ExecutorService** e **Thread Pools**, aplicando boas práticas para desenvolver aplicações concorrentes mais organizadas, 
 eficientes e seguras.
 
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module14-Java-POO-Multithreading\MULTITHREADING.md](JavaStudiesHub\module14-Java-POO-Multithreading\MULTITHREADING.md)
+
 
 ## 🗄️ Module 15 - Java JDBC
 
@@ -226,10 +201,11 @@ sistema de gerenciamento de consultas veterinárias e explorando operações de 
 - Durante os desafios foram utilizados recursos como **Connection**, **PreparedStatement**, **Statement**, **ResultSet**, 
 **CallableStatement**, **JDBC Escape Sequences**, além de **CRUD**, **Stored Procedures**, **Functions** e **Views**. 
 Também foram exploradas diferentes abordagens de persistência e consultas utilizando **JPA, JPQL e CriteriaBuilder**, 
-trabalhando com relacionamentos, consultas e gerenciamento de dados. **Para aprofundar o conteúdo e conferir a implementação completa,
-consulte o README do módulo em: **(`JavaStudiesHub\module15-Java-POO-JDBC\jdbc.md`).**
+trabalhando com relacionamentos, consultas e gerenciamento de dados.
 
-## 📈 Module 16 — Java Networking
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module15-Java-POO-JDBC\JDBC.md](JavaStudiesHub\module15-Java-POO-JDBC\JDBC.md)
+
+## 📈 Module 16 — Java HTTP & Networking
 
 - Este módulo é voltado ao estudo de **Java Networking**, explorando os principais recursos utilizados na comunicação entre 
 aplicações em Java. Durante esta etapa são abordados conceitos como **Sockets, TCP, UDP, Java NIO, Channels, Buffers e Selectors**, 
@@ -238,5 +214,6 @@ aplicados na construção de uma aplicação de consulta de ativos financeiros.
 - Além do conteúdo teórico presente nas apostilas, o módulo reúne práticas voltadas à comunicação cliente-servidor e ao uso 
 de diferentes mecanismos de networking. Também são explorados recursos modernos do Java, como **HttpClient, CompletableFuture, 
 WebSocket e Virtual Threads**, permitindo compreender diferentes abordagens para comunicação, assincronismo e concorrência 
-em aplicações Java.Para aprofundar o conteúdo e conferir a implementação completa, consulte o README do módulo em: 
-**(`JavaStudiesHub\module16-Java-POO-HTTP\javaWeb.md`).**
+em aplicações Java.
+
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module16-Java-POO-HTTP\JAVAWEB.md](JavaStudiesHub\module16-Java-POO-HTTP\javaWeb.md)

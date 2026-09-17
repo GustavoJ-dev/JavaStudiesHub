@@ -1,32 +1,4 @@
-# >[⚠️ 👇LEIA COM ATENÇÃO👇 ⚠️]
->
-># 📖 Sobre este módulo
->
->
->## 📝 Material de Estudo Pessoal
->
->As apostilas presentes neste módulo foram elaboradas por mim como parte do meu processo de aprendizado e como
-material de consulta durante os meus estudos em Java. Meu objetivo ao produzi-las é reforçar o conhecimento adquirido,
-organizar os conceitos estudados e criar uma referência para revisões futuras.
->
->## 🎓 Fonte do Conteúdo
->
->O conteúdo foi organizado, estruturado e escrito por mim com base nos assuntos abordados no curso `Java Programming 
->Masterclass`, ministrado por `Tim Buchalka` e disponibilizado na `Udemy`, além de pesquisas complementares e consultas à
->documentação oficial da Oracle.
->
->## 💻 Sobre os Exercícios
->
->Os exercícios e desafios fazem parte do processo de aprendizagem do curso e incluem tanto soluções desenvolvidas
->durante os meus estudos `quanto implementações baseadas nas correções apresentadas pelo professor ao longo das aulas`.
->
->## 🎯 Finalidade
->
-> - Todo o material presente neste módulo possui finalidade exclusivamente educacional e representa a minha evolução no
-    estudo da linguagem Java, servindo como registro da minha jornada de aprendizado e consulta pessoal.
-
-
-### 📚 Module 07 - Expressões Lambda e Interfaces Funcionais em Java
+# 📚 Module 07 - Expressões Lambda e Interfaces Funcionais em Java
 
 Bem-vindo ao **Módulo 07: Expressões Lambda e Interfaces Funcionais**!
 
@@ -34,6 +6,12 @@ Este módulo aprofunda um dos recursos mais importantes introduzidos no Java mod
 **Expressões Lambda** e **Functional Interfaces**.
 Aprendendo a escrever código mais conciso, reutilizável e funcional utilizando
 as interfaces do pacote `java.util.function`.
+
+# 📚 Guia do módulo
+-   Os conteúdos sobre o módulo se encontram na pasta:
+-  `JavaStudiesHub/module07-java-poo-lambdas/src/materiais_de_estudo`.
+-   Os exercícios e desafios se encontram na pasta:
+-  `JavaStudiesHub/module07-java-poo-lambdas/src/praticas`.
 
 ---
 

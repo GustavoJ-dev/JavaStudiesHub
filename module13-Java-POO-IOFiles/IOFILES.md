@@ -1,30 +1,3 @@
-# >[⚠️ 👇LEIA COM ATENÇÃO👇 ⚠️]
->
-># 📖 Sobre este módulo
->
->
->## 📝 Material de Estudo Pessoal
->
->As apostilas presentes neste módulo foram elaboradas por mim como parte do meu processo de aprendizado e como
-material de consulta durante os meus estudos em Java. Meu objetivo ao produzi-las é reforçar o conhecimento adquirido,
-organizar os conceitos estudados e criar uma referência para revisões futuras.
->
->## 🎓 Fonte do Conteúdo
->
->O conteúdo foi organizado, estruturado e escrito por mim com base nos assuntos abordados no curso `Java Programming 
->Masterclass`, ministrado por `Tim Buchalka` e disponibilizado na `Udemy`, além de pesquisas complementares e consultas à
->documentação oficial da Oracle.
->
->## 💻 Sobre os Exercícios
->
->Os exercícios e desafios fazem parte do processo de aprendizagem do curso e incluem tanto soluções desenvolvidas
->durante os meus estudos `quanto implementações baseadas nas correções apresentadas pelo professor ao longo das aulas`.
->
->## 🎯 Finalidade
->
-> - Todo o material presente neste módulo possui finalidade exclusivamente educacional e representa a minha evolução no
-    estudo da linguagem Java, servindo como registro da minha jornada de aprendizado e consulta pessoal.
-
 # 📚 Module 13 - Java I/O & File Handling
 
 Bem-vindo ao **Módulo 13: Java I/O & File Handling**!
@@ -33,6 +6,12 @@ Este módulo aprofunda o trabalho com **entrada e saída de dados (I/O)** em Jav
 arquivos até o uso das APIs modernas do pacote **java.nio.file**. Durante os estudos são utilizados recursos como 
 **Files**, **Path**, **BufferedReader**, **RandomAccessFile** e **FileVisitor**, além de exercícios práticos envolvendo 
 manipulação de arquivos binários, leitura de textos, navegação em diretórios e geração de arquivos **JSON**.
+
+# 📚 Guia do módulo
+-   Os conteúdos sobre o módulo se encontram na pasta:
+-  `JavaStudiesHub/module13-java-poo-iofiles/src/materiais_de_estudo`.
+-   Os exercícios e desafios se encontram na pasta:
+-  `JavaStudiesHub/module13-java-poo-iofiles/src/praticas`.
 
 ---
 
