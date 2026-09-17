@@ -14,9 +14,9 @@ de dados, como **Stored Procedures, Functions e Views**.
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `JavaStudiesHub/module15-java-poo-jdbc/src/materiais_de_estudo`.
+-  `JavaStudiesHub/module15-Java-POO-JDBC/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `JavaStudiesHub/module15-java-poo-jdbc/src/praticas`.
+-  `JavaStudiesHub/module15-Java-POO-JDBC/src/praticas`.
 
 ---
 

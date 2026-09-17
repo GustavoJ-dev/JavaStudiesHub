@@ -9,9 +9,9 @@ Aprendendo a organizar melhor o código, encapsular comportamentos relacionados 
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `JavaStudiesHub/module06-java-poo-nestedclasses/src/materiais_de_estudo`.
+-  `JavaStudiesHub/module06-Java-POO-NestedClasses/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `JavaStudiesHub/module06-java-poo-nestedclasses/src/praticas`.
+-  `JavaStudiesHub/module06-Java-POO-NestedClasses/src/praticas`.
 
 ---
 

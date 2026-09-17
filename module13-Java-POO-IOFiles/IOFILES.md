@@ -9,9 +9,9 @@ manipulação de arquivos binários, leitura de textos, navegação em diretóri
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `JavaStudiesHub/module13-java-poo-iofiles/src/materiais_de_estudo`.
+-  `JavaStudiesHub/module13-Java-POO-IOFiles/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `JavaStudiesHub/module13-java-poo-iofiles/src/praticas`.
+-  `JavaStudiesHub/module13-Java-POO-IOFiles/src/praticas`.
 
 ---
 

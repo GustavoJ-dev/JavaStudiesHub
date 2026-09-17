@@ -11,9 +11,9 @@ recursos modernos da Programação Orientada a Objetos em Java.
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `JavaStudiesHub/module09-java-poo-mutability/src/materiais_de_estudo`.
+-  `JavaStudiesHub/module09-Java-POO-Mutability/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `JavaStudiesHub/module09-java-poo-mutability/src/praticas`.
+-  `JavaStudiesHub/module09-Java-POO-Mutability/src/praticas`.
 
 
 ## 🎯 Objetivos do Módulo, O que será possível com este módulo: 

@@ -11,9 +11,9 @@ Além da sintaxe básica, explorei conceitos avançados como **Bounds**, **Wildc
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `JavaStudiesHub/module05-java-poo-generics/src/materiais_de_estudo`.
+-  `JavaStudiesHub/module05-Java-POO-Generics/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `JavaStudiesHub/module05-java-poo-generics/src/praticas`.
+-  `JavaStudiesHub/module05-Java-POO-Generics/src/praticas`.
 
 ---
 

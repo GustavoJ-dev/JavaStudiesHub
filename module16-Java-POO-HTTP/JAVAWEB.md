@@ -10,9 +10,9 @@ diferentes recursos relacionados à comunicação em rede no Java.
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `JavaStudiesHub/module16-java-poo-networking/src/materiais_de_estudo`.
+-  `JavaStudiesHub/module16-Java-POO-HTTP/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `JavaStudiesHub/module16-java-poo-networking/src/praticas`.
+-  `JavaStudiesHub/module16-Java-POO-HTTP/src/praticas`.
 
 ---
 

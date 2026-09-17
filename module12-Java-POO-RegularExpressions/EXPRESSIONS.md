@@ -10,9 +10,9 @@ um sistema de extração e validação de endereços de e-mail, integrando **Reg
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `JavaStudiesHub/module12-java-poo-regex/src/materiais_de_estudo`.
+-  `JavaStudiesHub/module12-Java-POO-RegularExpressions/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `JavaStudiesHub/module12-java-poo-regex/src/praticas`.
+-  `JavaStudiesHub/module12-Java-POO-RegularExpressions/src/praticas`.
 
 --- 
 

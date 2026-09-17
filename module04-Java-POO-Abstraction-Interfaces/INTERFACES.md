@@ -8,9 +8,9 @@ Este módulo aprofunda dois conceitos fundamentais da POO: **Abstração** (ocul
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `JavaStudiesHub/module04-java-poo-abstraction-interfaces/src/materiais_de_estudo`.
+-  `JavaStudiesHub/module04-Java-POO-Abstraction-Interfaces/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `JavaStudiesHub/module04-java-poo-abstraction-interfaces/src/praticas`.
+-  `JavaStudiesHub/module04-Java-POO-Abstraction-Interfaces/src/praticas`.
 
 ---
 

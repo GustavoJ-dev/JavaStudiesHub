@@ -18,7 +18,7 @@ operadores, estruturas de controle, métodos e lógica de programação.
 aprendizagem, proporcionando uma introdução gradual aos principais recursos da linguagem e preparando o caminho para 
 conceitos mais avançados, como Programação Orientada a Objetos e o ecossistema Java.
 
-**Saiba mais sobre o módulo em:** [JavaStudiesHub\module01-Java-Basic\JAVABASICS.md](JavaStudiesHub/module01-Java-Basic/JAVABASICS.md)
+**Saiba mais sobre o módulo em:** [JavaStudiesHub\module01-Java-Basic\JAVABASIC.md](JavaStudiesHub/module01-Java-Basic/JAVABASIC.md)
 
 
 ## 🧩 Module 02 — Object-Oriented Programming (POO):

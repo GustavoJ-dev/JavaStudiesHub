@@ -10,9 +10,9 @@ para programação concorrente.
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `JavaStudiesHub/module14-java-poo-multithreading/src/materiais_de_estudo`.
+-  `JavaStudiesHub/module14-Java-POO-Multithreading/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `JavaStudiesHub/module14-java-poo-multithreading/src/praticas`.
+-  `JavaStudiesHub/module14-Java-POO-Multithreading/src/praticas`.
 
 ---
 

@@ -13,9 +13,9 @@ agregação para filtrar, transformar, agrupar e analisar dados de forma elegant
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `JavaStudiesHub/module10-java-poo-streams/src/materiais_de_estudo`.
+-  `JavaStudiesHub/module10-Java-POO-Streams/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `JavaStudiesHub/module10-java-poo-streams/src/praticas`.
+-  `JavaStudiesHub/module10-Java-POO-Streams/src/praticas`.
 ---
 
 ## 🎯 Objetivos do Módulo

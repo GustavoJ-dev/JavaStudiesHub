@@ -10,9 +10,9 @@ gerenciar coleções de objetos e implementar operações complexas com dados.
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `JavaStudiesHub/module03-java-poo-lists/src/materiais_de_estudo`.
+-  `JavaStudiesHub/module03-Java-POO-Lists/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `JavaStudiesHub/module03-java-poo-lists/src/praticas`.
+-  `JavaStudiesHub/module03-Java-POO-Lists/src/praticas`.
 
 ---
 

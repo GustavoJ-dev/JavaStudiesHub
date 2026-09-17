@@ -9,9 +9,9 @@ as interfaces do pacote `java.util.function`.
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `JavaStudiesHub/module07-java-poo-lambdas/src/materiais_de_estudo`.
+-  `JavaStudiesHub/module07-Java-POO-Lambdas/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `JavaStudiesHub/module07-java-poo-lambdas/src/praticas`.
+-  `JavaStudiesHub/module07-Java-POO-Lambdas/src/praticas`.
 
 ---
 

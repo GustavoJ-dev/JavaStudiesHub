@@ -15,9 +15,9 @@ fusos horários.
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `JavaStudiesHub/module11-java-poo-core/src/materiais_de_estudo`.
+-  `JavaStudiesHub/module11-Java-POO-Core/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `JavaStudiesHub/module11-java-poo-core/src/praticas`.
+-  `JavaStudiesHub/module11-Java-POO-Core/src/praticas`.
 
 ---
 

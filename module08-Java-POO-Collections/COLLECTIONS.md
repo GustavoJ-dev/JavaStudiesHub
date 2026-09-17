@@ -13,9 +13,9 @@ a Objetos juntamente com algoritmos de ordenação, busca e navegação em cole�
 
 # 📚 Guia do módulo
 -   Os conteúdos sobre o módulo se encontram na pasta:
--  `JavaStudiesHub/module08-java-poo-collections/src/materiais_de_estudo`.
+-  `JavaStudiesHub/module08-Java-POO-collections/src/materiais_de_estudo`.
 -   Os exercícios e desafios se encontram na pasta:
--  `JavaStudiesHub/module08-java-poo-collections/src/praticas`.
+-  `JavaStudiesHub/module08-Java-POO-collections/src/praticas`.
 
 ---
 
