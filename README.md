@@ -31,7 +31,7 @@ classes, objetos, encapsulamento, herança, polimorfismo e construção de hiera
 modelagem de sistemas orientados a objetos, permitindo aplicar os pilares da POO em cenários reais e desenvolver código
 mais organizado, reutilizável e de fácil manutenção.
 
-**Saiba mais sobre o módulo em:** [JavaStudiesHub\module02-Java-POO\POO.md](JavaStudiesHub\module02-Java-POO\POO.md)
+**Saiba mais sobre o módulo em:** [module02-Java-POO/POO.md](module02-Java-POO/POO.md)
 
 
 ## 📚 Module 03 — Object-Oriented Programming with Arrays & Collections:
@@ -43,7 +43,7 @@ implementação de operações CRUD e desenvolvimento de aplicações mais organ
 Collections ‘Framework’, algoritmos de busca e ordenação, navegação com iteradores e boas práticas de desenvolvimento 
 orientado a objetos, consolidando conceitos fundamentais para aplicações Java mais robustas.
 
-**Saiba mais sobre o módulo em:** [JavaStudiesHub\module03-Java-POO-Lists\ARRAYS&LISTS.md](JavaStudiesHub\module03-Java-POO-Lists\ARRAYS&LISTS.md)
+**Saiba mais sobre o módulo em:** [module03-Java-POO-Lists/ARRAYS&LISTS.md](module03-Java-POO-Lists/ARRAYS&LISTS.md)
 
 ## 🎭 Module 04 — Abstraction & Interfaces:
 
@@ -55,7 +55,7 @@ métodos ‘default’, enumerações avançadas e os princípios que tornam o c
 em cenários reais, utilizando serializer de objetos, sistemas de mapeamento, ‘interfaces’ polimórficas e boas práticas 
 de arquitetura, preparando a base para o desenvolvimento de aplicações Java mais profissional e escaláveis.
 
-  **Saiba mais sobre o módulo em:** [JavaStudiesHub\module04-Java-POO-Abstraction-Interfaces\INTERFACES.md](JavaStudiesHub\module04-Java-POO-Abstraction-Interfaces\INTERFACES.md)
+  **Saiba mais sobre o módulo em:** [module04-Java-POO-Abstraction-Interfaces/INTERFACES.md](module04-Java-POO-Abstraction-Interfaces/INTERFACES.md)
 
 
 ## 📦 Module 05 — Generics:
@@ -67,7 +67,7 @@ Bounds, Wildcards, a regra PECS, Type Erasure, além da utilização de Comparab
 diferentes cenários, evidenciando como esse recurso contribui para a construção de APIs mais robustas, coleções tipadas 
 e soluções escaláveis seguindo as boas práticas do desenvolvimento Java moderno.
 
-**Saiba mais sobre o módulo em:** [JavaStudiesHub\module05-Java-POO-Generics\GENERICS.md](JavaStudiesHub\module05-Java-POO-Generics\GENERICS.md)
+**Saiba mais sobre o módulo em:** [module05-Java-POO-Generics/GENERICS.md](module05-Java-POO-Generics/GENERICS.md)
 
 
 ## 🧩 Module 06 — Nested Classes:
@@ -80,7 +80,7 @@ e manutenção do código.
 aninhadas em cenários reais, integrando conceitos como Comparator, Collections, Records e Programação Orientada a 
 Objetos para desenvolver soluções mais modulares e bem estruturadas.
 
-**Saiba mais sobre o módulo em:** [JavaStudiesHub\module06-Java-POO-NestedClasses\NESTEDCLASSES.md](JavaStudiesHub\module06-Java-POO-NestedClasses\NESTEDCLASSES.md)
+**Saiba mais sobre o módulo em:** [module06-Java-POO-NestedClasses/NESTEDCLASSES.md](module06-Java-POO-NestedClasses/NESTEDCLASSES.md)
 
 
 ## ⚡ Module 07 — Lambda Expressions & Functional Interfaces:
@@ -107,7 +107,7 @@ utilizar algoritmos de busca, ordenação e navegação de forma eficiente.
 em diferentes contextos, consolidando conceitos como Comparable, Comparator, manipulação de dados, modelagem orientada 
 a objetos e boas práticas de desenvolvimento para construir aplicações mais organizadas, reutilizáveis e escaláveis. 
 
-**Saiba mais sobre o módulo em:** [JavaStudiesHub\module08-Java-POO-Collections\COLLECTIONS.md](JavaStudiesHub\module08-Java-POO-Collections\COLLECTIONS.md)
+**Saiba mais sobre o módulo em:** [module08-Java-POO-Collections/COLLECTIONS.md](module08-Java-POO-Collections/COLLECTIONS.md)
 
 
 ## 📚 Module 09 - Mutabilidade e Imutabilidade em Java:
@@ -121,7 +121,7 @@ práticos, utilizando Generics, Collections, Lambdas, Interfaces Funcionais, Rec
 desenvolvidos estão um sistema bancário e uma estrutura genérica de jogos, utilizada na implementação de jogos como 
 Shooter Game e Pirate Game.
 
-**Saiba mais sobre o módulo em:** [JavaStudiesHub\module09-Java-POO-Mutability\MUTABILITY.md](JavaStudiesHub\module09-Java-POO-Mutability\MUTABILITY.md)
+**Saiba mais sobre o módulo em:** [module09-Java-POO-Mutability/MUTABILITY.md](module09-Java-POO-Mutability/MUTABILITY.md)  
 
 
 ## 📚 Module 10 - Streams API
@@ -136,7 +136,7 @@ aplicando agrupamentos, particionamentos, estatísticas, transformações e cole
 Esses projetos consolidaram o uso da programação funcional integrada à Programação Orientada a Objetos, utilizando 
 recursos modernos da linguagem para resolver problemas reais de forma reutilizável e organizada.
 
-**Saiba mais sobre o módulo em:** [JavaStudiesHub\module10-Java-POO-Streams\STREAMS.md](JavaStudiesHub\module10-Java-POO-Streams\STREAMS.md)
+**Saiba mais sobre o módulo em:** [module10-Java-POO-Streams/STREAMS.md](module10-Java-POO-Streams/STREAMS.md)
 
 
 ## 📚 Module 11 - Java Date and Time API
@@ -151,7 +151,7 @@ localizados em diferentes fusos horários, aplicando conversão entre zonas de t
 verificação de horário de verão (**Daylight Saving Time**) e integração da **Java Date and Time API** com **Streams**,
 reforçando boas práticas e recursos modernos da linguagem.
 
-**Saiba mais sobre o módulo em:** [JavaStudiesHub\module11-Java-POO-Core\JAVACORE.md](JavaStudiesHub\module11-Java-POO-Core\JAVACORE.md)
+**Saiba mais sobre o módulo em:** [module11-Java-POO-Core/JAVACORE.md](module11-Java-POO-Core/JAVACORE.md)
 
 ## 🔍 Module 12 - Java Regular Expressions
 
@@ -161,7 +161,7 @@ reforçando boas práticas e recursos modernos da linguagem.
 - Prática com **Pattern**, **Matcher**, Streams API e expressões lambda, aplicando Regex em desafios de correspondência textual e
 no desenvolvimento de um validador e extrator de endereços de e-mail.
 
-**Saiba mais sobre o módulo em:** [JavaStudiesHub\module12-Java-POO-RegularExpressions\EXPRESSIONS.md](JavaStudiesHub\module12-Java-POO-RegularExpressions\EXPRESSIONS.md)
+**Saiba mais sobre o módulo em:** [module12-Java-POO-RegularExpressions/EXPRESSIONS.md](module12-Java-POO-RegularExpressions/EXPRESSIONS.md)
 
 
 ## 📦 Module 13 - Java IOFiles
@@ -175,7 +175,7 @@ persistentes na linguagem.
 manipulação de arquivos binários, processamento de dados com Streams API, utilização de Collections Framework e reforço
 dos conceitos de Programação Orientada a Objetos, desenvolvendo aplicações mais organizadas e próximas de cenários reais.
 
-**Saiba mais sobre o módulo em:** [JavaStudiesHub\module13-Java-POO-IOFiles\IOFILES.md](JavaStudiesHub\module13-Java-POO-IOFiles\IOFILES.md)
+**Saiba mais sobre o módulo em:** [module13-Java-POO-IOFiles/IOFILES.md](module13-Java-POO-IOFiles/IOFILES.md)
 
 
 ## 🖥️ Module 14 - Java Multithreading
@@ -189,7 +189,7 @@ entre recursos compartilhados.
 **ExecutorService** e **Thread Pools**, aplicando boas práticas para desenvolver aplicações concorrentes mais organizadas, 
 eficientes e seguras.
 
-**Saiba mais sobre o módulo em:** [JavaStudiesHub\module14-Java-POO-Multithreading\MULTITHREADING.md](JavaStudiesHub\module14-Java-POO-Multithreading\MULTITHREADING.md)
+**Saiba mais sobre o módulo em:** [module14-Java-POO-Multithreading/MULTITHREADING.md](module14-Java-POO-Multithreading/MULTITHREADING.md)
 
 
 ## 🗄️ Module 15 - Java JDBC
@@ -203,7 +203,7 @@ sistema de gerenciamento de consultas veterinárias e explorando operações de 
 Também foram exploradas diferentes abordagens de persistência e consultas utilizando **JPA, JPQL e CriteriaBuilder**, 
 trabalhando com relacionamentos, consultas e gerenciamento de dados.
 
-**Saiba mais sobre o módulo em:** [JavaStudiesHub\module15-Java-POO-JDBC\JDBC.md](JavaStudiesHub\module15-Java-POO-JDBC\JDBC.md)
+**Saiba mais sobre o módulo em:** [module15-Java-POO-JDBC/JDBC.md](module15-Java-POO-JDBC/JDBC.md)
 
 ## 📈 Module 16 — Java HTTP & Networking
 
@@ -216,4 +216,4 @@ de diferentes mecanismos de networking. Também são explorados recursos moderno
 WebSocket e Virtual Threads**, permitindo compreender diferentes abordagens para comunicação, assincronismo e concorrência 
 em aplicações Java.
 
-**Saiba mais sobre o módulo em:** [JavaStudiesHub\module16-Java-POO-HTTP\JAVAWEB.md](JavaStudiesHub\module16-Java-POO-HTTP\javaWeb.md)
+**Saiba mais sobre o módulo em:** [module16-Java-POO-HTTP/JAVAWEB.md](module16-Java-POO-HTTP/JAVAWEB.md)
