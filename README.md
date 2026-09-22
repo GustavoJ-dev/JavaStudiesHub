@@ -217,3 +217,17 @@ WebSocket e Virtual Threads**, permitindo compreender diferentes abordagens para
 em aplicações Java.
 
 **Saiba mais sobre o módulo em:** [module16-Java-POO-HTTP/JAVAWEB.md](module16-Java-POO-HTTP/JAVAWEB.md)
+
+
+## Module 17 - Java Testes Unitários com JUnit
+
+- Este módulo é dedicado ao estudo de **testes unitários em Java**, utilizando principalmente o **JUnit**. Nele são abordados 
+conceitos fundamentais de testes automatizados, incluindo JUnit 4, JUnit 5 (Jupiter), assertions, testes de exceções,
+validação de mensagens, `@BeforeEach`, `@AfterEach` e a importância da independência entre os testes.
+
+- Além da apostila de estudos, este módulo reúne **exercícios e desafios práticos** desenvolvidos durante o processo de
+aprendizagem, utilizando a classe `DigitalAccount` para aplicar diferentes tipos de testes e assertions. O módulo proporciona
+uma introdução prática à criação, organização e execução de testes automatizados, preparando o caminho para conceitos mais 
+avançados de qualidade de código e testes em aplicações Java.
+- 
+**Saiba mais sobre o módulo em:** [module17-Java-POO-JUnit/JUnitTests.md](module17-Java-POO-JUnit/JUnitTests.md)
