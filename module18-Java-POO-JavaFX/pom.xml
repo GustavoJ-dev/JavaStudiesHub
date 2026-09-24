@@ -53,7 +53,7 @@
         <version>0.0.8</version>
         <configuration>
             <mainClass>
-                com.gustavo.MainApp.MainApp
+                com.gustavo.mainapp.MainApp
             </mainClass>
         </configuration>
     </plugin>
