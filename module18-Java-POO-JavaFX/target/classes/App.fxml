@@ -47,7 +47,7 @@
                            onMouseEntered="#ampliarCartaz"
                            onMouseExited="#restaurarCartaz"/>
 
-                <Label text="ESGOTADO"
+                <Label text=""
                        style="-fx-background-color: rgba(0,0,0,0.6); -fx-text-fill: white;"/>
 
             </StackPane>
@@ -65,7 +65,8 @@
                 <TextArea fx:id="areaDetalhes"
                           editable="false"
                           wrapText="true"
-                          prefRowCount="4"/>
+                          minHeight="100"
+                          prefHeight="180"/>
 
                 <TextField fx:id="campoNomeCliente"
                            promptText="Nome do cliente"/>

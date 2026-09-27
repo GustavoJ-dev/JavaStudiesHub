@@ -1,2 +1,4 @@
 com\gustavo\MainApp\controller\MainController.class
+com\gustavo\MainApp\cineticket\SessaoRepositorio.class
 com\gustavo\MainApp\MainApp.class
+com\gustavo\MainApp\controller\MainController$1.class

@@ -1,0 +1,7 @@
+.button {
+    -fx-background-color: #B45309;
+    -fx-text-fill: white;
+}
+#botaoCancelar {
+    -fx-background-color: #6B7280;
+}
